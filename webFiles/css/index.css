@@ -1,0 +1,207 @@
+body {
+    padding-top: 40px;
+    background: black;
+    background-image: url("../../imgFiles/backdrop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+}
+.template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.bodyContainer {
+    padding: 80px 15px;
+    text-align: center;
+    color: white;
+}
+@media (max-width: 640px) {
+    p#directions {
+        padding-top: 55%;
+        color:white;
+    }
+}
+@media (min-width: 641px) {
+    main#content {
+        font-size: 14px;
+    }
+    p.lead {
+        font-size: 18px;
+    }
+    h1 {
+        font-size: 25px;
+    }
+
+}
+@media (min-width: 1025px) {
+    main#content {
+        font-size: 15px;
+    }
+    p.lead {
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 35px;
+    }
+
+}
+@media (min-width: 1441px) {
+    main#content {
+        font-size: 30px;
+    }
+    p.lead {
+        font-size: 35px;
+    }
+    h1 {
+        font-size: 50px;
+    }
+
+}
+
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    max-height: 250px;
+}
+
+.dropdown-menu li>a{color:white; }
+.dropdown-menu li>a:hover{background:white; }
+
+#content {
+    padding-top: 40px;
+    width: 1440px;
+    height: 2000px;
+    text-align: center;
+    color:white;       
+}
+
+/*Diversity chart*/
+
+#selectedCity {
+    font-family: cursive;
+    color: white;
+    position: fixed;
+    display: none;
+    right: 1%;
+    top: -1%;
+}
+
+#mod5_head {
+    width: 760px;
+    height: 74px;
+    left: 43%; 
+    top: 8%; 
+    position: absolute;
+    background-color: rgba(255,255,255,0.6);  
+}
+
+#mod1_chart svg {
+    position: relative;
+    width: auto;
+    height 70%;
+    left: 8%;
+    top: 5%;
+}
+
+#mod1_chart {
+    display: none;
+    position: absolute;
+    width: 355px;
+    height: 325px;
+    left: 43%; 
+    top: 19%; 
+    
+    background-color: rgba(255,255,255,0.6);
+}
+
+/*Poverty*/
+
+#mod2_chart svg {
+    height: 80%;
+    width: 90%;
+    padding-left: 20px;
+}
+
+#mod2_chart {
+    display: none;
+    width: 540px;
+    height: 300px;
+    left: 4%; 
+    top: 60%; 
+    position: absolute;
+    background-color: rgba(255,255,255,0.6);
+}
+
+/*Something*/
+
+#mod3_chart svg {
+    position: relative;
+}
+
+#mod3_chart {
+    display: none;
+    width: 385px;
+    height: 325px;
+    left:  69%; 
+    top: 19%; 
+    position: absolute;
+    background-color: rgba(255,255,255,0.6);
+}
+
+#mod4_chart {
+    display: none;
+    width: 760px;
+    height: 300px;
+    left: 43%; 
+    top: 60%; 
+    position: absolute;
+    background-color: rgba(255,255,255,0.6);
+}
+
+#myChart {
+    position: relative;
+    top: 100px;
+    height: 70%;
+}
+
+
+#mod1h {
+    position: absolute;
+    left: 10%;
+}
+
+#map {
+    opacity: 0.8;
+    padding-left: 70px;
+    padding-top: 65px;
+
+}
+
+#map:hover {
+    opacity: 1;
+}
+
+.dropdown-menu {
+    max-height: 300px;
+    overflow-y:scroll; 
+    opacity: .85;
+}
+
+#map path {
+    fill :white;
+    opacity: .85;
+}
+
+#mapTitle {
+    position: absolute;
+    top: 65px;
+    left: 125px;
+}
+
+.navbar.navbar-fixed-top {
+    background:rgba(255,255,255,.5);
+}
+.navbar .nav > .active a, .navbar .nav > .active a:hover, .navbar .nav > li a:hover {
+    background:rgba(210,105,30, 0); text-shadow:none;
+}   

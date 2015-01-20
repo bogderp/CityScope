@@ -1,0 +1,2190 @@
+1.0,Abbeville,3.0,South Carolina,3.4,USA
+2.0,Accomack,2.1,Virginia,3.4,USA
+8.0,Ada,2.0,Idaho,3.4,USA
+1.0,Adair,2.7,Missouri,3.4,USA
+1.0,Adair,2.4,Iowa,3.4,USA
+1.0,Adair,1.6,Kentucky,3.4,USA
+4.0,Adams,4.6,Pennsylvania,3.4,USA
+1.0,Adams,1.7,Mississippi,3.4,USA
+3.0,Adams,4.2,Illinois,3.4,USA
+1.0,Adams,2.1,Indiana,3.4,USA
+1.0,Adams,2.4,Iowa,3.4,USA
+2.0,Adams,1.6,Nebraska,3.4,USA
+5.0,Adams,3.2,Colorado,3.4,USA
+1.0,Adams,4.4,Washington,3.4,USA
+1.0,Adams,4.1,Wisconsin,3.4,USA
+1.0,Adams,1.7,North Dakota,3.4,USA
+4.0,Addison,6.9,Vermont,3.4,USA
+1.0,Aiken,3.0,South Carolina,3.4,USA
+7.0,Alachua,3.9,Florida,3.4,USA
+2.0,Alamance,2.3,North Carolina,3.4,USA
+37.0,Alameda,12.4,California,3.4,USA
+1.0,Alamosa,3.2,Colorado,3.4,USA
+11.0,Albany,9.4,New York,3.4,USA
+3.0,Albany,1.8,Wyoming,3.4,USA
+5.0,Albany County,9.4,New York,3.4,USA
+4.0,Albemarle,2.1,Virginia,3.4,USA
+1.0,Alcona,3.7,Michigan,3.4,USA
+2.0,Alcorn,1.7,Mississippi,3.4,USA
+5.0,Alexandria,2.1,Virginia,3.4,USA
+1.0,Alger,3.7,Michigan,3.4,USA
+2.0,Allamakee,2.4,Iowa,3.4,USA
+3.0,Allegan,3.7,Michigan,3.4,USA
+4.0,Allegany,9.4,New York,3.4,USA
+4.0,Allegany,5.5,Maryland,3.4,USA
+2.0,Alleghany,2.3,North Carolina,3.4,USA
+1.0,Alleghany,2.1,Virginia,3.4,USA
+22.0,Allegheny,4.6,Pennsylvania,3.4,USA
+1.0,Allen,1.6,Kansas,3.4,USA
+2.0,Allen,3.4,Ohio,3.4,USA
+11.0,Allen,2.1,Indiana,3.4,USA
+1.0,Allen,1.8,Louisiana,3.4,USA
+3.0,Allen County,3.4,Ohio,3.4,USA
+1.0,Allendale,3.0,South Carolina,3.4,USA
+2.0,Alpena,3.7,Michigan,3.4,USA
+5.0,Amador,12.4,California,3.4,USA
+1.0,Amelia,2.1,Virginia,3.4,USA
+6.0,Anchorage,2.6,Alaska,3.4,USA
+5.0,Anderson,3.0,South Carolina,3.4,USA
+1.0,Anderson,1.6,Kentucky,3.4,USA
+1.0,Anderson,1.6,Kansas,3.4,USA
+1.0,Anderson,1.7,Tennessee,3.4,USA
+1.0,Anderson,2.1,Indiana,3.4,USA
+5.0,Androscoggin,5.2,Maine,3.4,USA
+8.0,Anne Arundel,5.5,Maryland,3.4,USA
+5.0,Anoka,2.9,Minnesota,3.4,USA
+2.0,Anson,2.3,North Carolina,3.4,USA
+3.0,Antelope,1.6,Nebraska,3.4,USA
+2.0,Antrim,3.7,Michigan,3.4,USA
+1.0,Apache,5.7,Arizona,3.4,USA
+1.0,Appanoose,2.4,Iowa,3.4,USA
+1.0,Aransas,2.4,Texas,3.4,USA
+5.0,Arapahoe,3.2,Colorado,3.4,USA
+1.0,Archuleta,3.2,Colorado,3.4,USA
+2.0,Arenac,3.7,Michigan,3.4,USA
+2.0,Arkansas,1.6,Arkansas,3.4,USA
+6.0,Arlington,2.1,Virginia,3.4,USA
+3.0,Aroostook,5.2,Maine,3.4,USA
+1.0,Ashe,2.3,North Carolina,3.4,USA
+1.0,Ashland,4.1,Wisconsin,3.4,USA
+2.0,Ashland,3.4,Ohio,3.4,USA
+1.0,Ashley,1.6,Arkansas,3.4,USA
+4.0,Ashtabula,3.4,Ohio,3.4,USA
+1.0,Atchison,1.6,Kansas,3.4,USA
+1.0,Atchison,2.7,Missouri,3.4,USA
+1.0,Athens,3.4,Ohio,3.4,USA
+5.0,Atlantic,5.4,New Jersey,3.4,USA
+1.0,Attala,1.7,Mississippi,3.4,USA
+1.0,Audrain,2.7,Missouri,3.4,USA
+1.0,Audubon,2.4,Iowa,3.4,USA
+2.0,Auglaize,3.4,Ohio,3.4,USA
+2.0,Augusta,2.1,Virginia,3.4,USA
+1.0,Austin,2.4,Texas,3.4,USA
+1.0,Autauga,2.1,Alabama,3.4,USA
+1.0,Avery County,2.3,North Carolina,3.4,USA
+3.0,Avoyelles,1.8,Louisiana,3.4,USA
+1.0,Baker,4.6,Oregon,3.4,USA
+4.0,Baldwin,2.1,Alabama,3.4,USA
+1.0,Baldwin,2.0,Georgia,3.4,USA
+1.0,Ballard,1.6,Kentucky,3.4,USA
+17.0,Baltimore,5.5,Maryland,3.4,USA
+16.0,Baltimore City,5.5,Maryland,3.4,USA
+2.0,Bannock,2.0,Idaho,3.4,USA
+1.0,Baraga,3.7,Michigan,3.4,USA
+1.0,Barber,1.6,Kansas,3.4,USA
+2.0,Barbour,1.6,West Virginia,3.4,USA
+3.0,Barbour,2.1,Alabama,3.4,USA
+1.0,Barnes,1.7,North Dakota,3.4,USA
+12.0,Barnstable,17.6,Massachusetts,3.4,USA
+2.0,Barnwell,3.0,South Carolina,3.4,USA
+4.0,Barren,1.6,Kentucky,3.4,USA
+5.0,Barron,4.1,Wisconsin,3.4,USA
+1.0,Barrow,2.0,Georgia,3.4,USA
+2.0,Barry,2.7,Missouri,3.4,USA
+2.0,Barry,3.7,Michigan,3.4,USA
+3.0,Bartholomew,2.1,Indiana,3.4,USA
+1.0,Barton,2.7,Missouri,3.4,USA
+2.0,Bastrop,2.4,Texas,3.4,USA
+1.0,Bates,2.7,Missouri,3.4,USA
+1.0,Bath,2.1,Virginia,3.4,USA
+1.0,Bath,1.6,Kentucky,3.4,USA
+3.0,Baxter,1.6,Arkansas,3.4,USA
+2.0,Bay,3.7,Michigan,3.4,USA
+5.0,Bay,3.9,Florida,3.4,USA
+3.0,Bayfield,4.1,Wisconsin,3.4,USA
+1.0,Beadle,1.4,South Dakota,3.4,USA
+7.0,Beaufort,3.0,South Carolina,3.4,USA
+1.0,Beaufort,2.3,North Carolina,3.4,USA
+2.0,Beauregard,1.8,Louisiana,3.4,USA
+3.0,Beaver,4.6,Pennsylvania,3.4,USA
+1.0,Beaverhead,1.9,Montana,3.4,USA
+2.0,Becker,2.9,Minnesota,3.4,USA
+1.0,Beckham,1.7,Oklahoma,3.4,USA
+1.0,Bedford,4.6,Pennsylvania,3.4,USA
+3.0,Bedford,2.1,Virginia,3.4,USA
+1.0,Bedford City,2.1,Virginia,3.4,USA
+6.0,Belknap,8.0,New Hampshire,3.4,USA
+2.0,Bell,2.4,Texas,3.4,USA
+4.0,Belmont,3.4,Ohio,3.4,USA
+2.0,Beltrami,2.9,Minnesota,3.4,USA
+1.0,Ben Hill,2.0,Georgia,3.4,USA
+2.0,Benewah,2.0,Idaho,3.4,USA
+5.0,Bennington,6.9,Vermont,3.4,USA
+1.0,Bent,3.2,Colorado,3.4,USA
+5.0,Benton,2.4,Iowa,3.4,USA
+5.0,Benton,1.6,Arkansas,3.4,USA
+2.0,Benton,4.6,Oregon,3.4,USA
+4.0,Benton,4.4,Washington,3.4,USA
+1.0,Benton,2.7,Missouri,3.4,USA
+4.0,Benzie,3.7,Michigan,3.4,USA
+10.0,Bergen,5.4,New Jersey,3.4,USA
+3.0,Berkeley,3.0,South Carolina,3.4,USA
+1.0,Berkeley,1.6,West Virginia,3.4,USA
+7.0,Berks,4.6,Pennsylvania,3.4,USA
+15.0,Berkshire,17.6,Massachusetts,3.4,USA
+10.0,Bernalillo,2.5,New Mexico,3.4,USA
+6.0,Berrien,3.7,Michigan,3.4,USA
+1.0,Berrien,2.0,Georgia,3.4,USA
+16.0,Bexar,2.4,Texas,3.4,USA
+2.0,Bexar County,2.4,Texas,3.4,USA
+1.0,Bibb,2.1,Alabama,3.4,USA
+2.0,Bibb,2.0,Georgia,3.4,USA
+3.0,Big Horn,1.8,Wyoming,3.4,USA
+1.0,Big Horn,1.9,Montana,3.4,USA
+1.0,Bingham,2.0,Idaho,3.4,USA
+6.0,Black Hawk,2.4,Iowa,3.4,USA
+1.0,Bladen,2.3,North Carolina,3.4,USA
+3.0,Blaine,2.0,Idaho,3.4,USA
+4.0,Blair,4.6,Pennsylvania,3.4,USA
+1.0,Bland,2.1,Virginia,3.4,USA
+1.0,Blount,2.1,Alabama,3.4,USA
+1.0,Blount,1.7,Tennessee,3.4,USA
+1.0,Blue Earth,2.9,Minnesota,3.4,USA
+3.0,Boise,2.0,Idaho,3.4,USA
+2.0,Bolivar,1.7,Mississippi,3.4,USA
+1.0,Bollinger,2.7,Missouri,3.4,USA
+5.0,Bonner,2.0,Idaho,3.4,USA
+1.0,Bonneville,2.0,Idaho,3.4,USA
+2.0,Boone,4.2,Illinois,3.4,USA
+1.0,Boone,1.6,Kentucky,3.4,USA
+3.0,Boone,1.6,Arkansas,3.4,USA
+10.0,Boone,2.7,Missouri,3.4,USA
+1.0,Boone,2.4,Iowa,3.4,USA
+1.0,Boone,2.1,Indiana,3.4,USA
+2.0,Botetourt,2.1,Virginia,3.4,USA
+1.0,Bottineau,1.7,North Dakota,3.4,USA
+5.0,Boulder,3.2,Colorado,3.4,USA
+1.0,Boundary,2.0,Idaho,3.4,USA
+2.0,Bourbon,1.6,Kentucky,3.4,USA
+1.0,Bourbon,1.6,Kansas,3.4,USA
+1.0,Bowie,2.4,Texas,3.4,USA
+1.0,Box Butte,1.6,Nebraska,3.4,USA
+1.0,Boyd,1.6,Kentucky,3.4,USA
+1.0,Boyle,1.6,Kentucky,3.4,USA
+1.0,Bracken,1.6,Kentucky,3.4,USA
+1.0,Bradford,3.9,Florida,3.4,USA
+2.0,Bradford,4.6,Pennsylvania,3.4,USA
+1.0,Bradley,1.7,Tennessee,3.4,USA
+2.0,Braxton,1.6,West Virginia,3.4,USA
+1.0,Braxton County,1.6,West Virginia,3.4,USA
+1.0,Brazoria,2.4,Texas,3.4,USA
+1.0,Brazos,2.4,Texas,3.4,USA
+1.0,Breathitt,1.6,Kentucky,3.4,USA
+1.0,Breckinridge,1.6,Kentucky,3.4,USA
+2.0,Bremer,2.4,Iowa,3.4,USA
+6.0,Brevard,3.9,Florida,3.4,USA
+19.0,Bristol,17.6,Massachusetts,3.4,USA
+5.0,Bristol,9.2,Rhode Island,3.4,USA
+36.0,Bronx,9.4,New York,3.4,USA
+3.0,Brooke,1.6,West Virginia,3.4,USA
+1.0,Brookings,1.4,South Dakota,3.4,USA
+8.0,Broome,9.4,New York,3.4,USA
+2.0,Broomfield,3.2,Colorado,3.4,USA
+13.0,Broward,3.9,Florida,3.4,USA
+1.0,Brown,1.4,South Dakota,3.4,USA
+1.0,Brown,4.2,Illinois,3.4,USA
+1.0,Brown,2.4,Texas,3.4,USA
+7.0,Brown,4.1,Wisconsin,3.4,USA
+2.0,Brown,1.6,Nebraska,3.4,USA
+1.0,Brown,3.4,Ohio,3.4,USA
+1.0,Brule,1.4,South Dakota,3.4,USA
+1.0,Brunswick,2.3,North Carolina,3.4,USA
+1.0,Bryan,1.7,Oklahoma,3.4,USA
+2.0,Buchanan,2.4,Iowa,3.4,USA
+1.0,Buchanan,2.7,Missouri,3.4,USA
+1.0,Buckingham,2.1,Virginia,3.4,USA
+8.0,Bucks,4.6,Pennsylvania,3.4,USA
+1.0,Buena Vista,2.1,Virginia,3.4,USA
+1.0,Buena Vista,2.4,Iowa,3.4,USA
+1.0,Buffalo,4.1,Wisconsin,3.4,USA
+4.0,Buffalo,1.6,Nebraska,3.4,USA
+3.0,Bulloch,2.0,Georgia,3.4,USA
+1.0,Bullock,2.1,Alabama,3.4,USA
+14.0,Buncombe,2.3,North Carolina,3.4,USA
+1.0,Bureau,4.2,Illinois,3.4,USA
+3.0,Burke,2.3,North Carolina,3.4,USA
+2.0,Burke,1.7,North Dakota,3.4,USA
+4.0,Burleigh,1.7,North Dakota,3.4,USA
+4.0,Burlington,5.4,New Jersey,3.4,USA
+3.0,Burnett,4.1,Wisconsin,3.4,USA
+4.0,Butler,2.7,Missouri,3.4,USA
+2.0,Butler,2.1,Alabama,3.4,USA
+1.0,Butler,1.6,Nebraska,3.4,USA
+4.0,Butler,3.4,Ohio,3.4,USA
+1.0,Butler,4.6,Pennsylvania,3.4,USA
+1.0,Butler County,1.6,Kansas,3.4,USA
+6.0,Butte,12.4,California,3.4,USA
+1.0,Butte,1.4,South Dakota,3.4,USA
+1.0,Butte County,12.4,California,3.4,USA
+4.0,Cabarrus,2.3,North Carolina,3.4,USA
+2.0,Cabell,1.6,West Virginia,3.4,USA
+1.0,Cache,2.0,Utah,3.4,USA
+2.0,Caddo,1.8,Louisiana,3.4,USA
+3.0,Calaveras,12.4,California,3.4,USA
+3.0,Calcasieu,1.8,Louisiana,3.4,USA
+3.0,Caldwell,2.3,North Carolina,3.4,USA
+14.0,Caledonia,6.9,Vermont,3.4,USA
+7.0,Calhoun,3.7,Michigan,3.4,USA
+3.0,Calhoun,2.1,Alabama,3.4,USA
+1.0,Calhoun,1.7,Mississippi,3.4,USA
+1.0,Calhoun,3.0,South Carolina,3.4,USA
+2.0,Calhoun,2.4,Iowa,3.4,USA
+2.0,Calhoun,1.6,West Virginia,3.4,USA
+3.0,Callaway,2.7,Missouri,3.4,USA
+1.0,Calloway,1.6,Kentucky,3.4,USA
+3.0,Calumet,4.1,Wisconsin,3.4,USA
+4.0,Calvert,5.5,Maryland,3.4,USA
+5.0,Cambria,4.6,Pennsylvania,3.4,USA
+4.0,Camden,2.7,Missouri,3.4,USA
+11.0,Camden,5.4,New Jersey,3.4,USA
+2.0,Cameron,2.4,Texas,3.4,USA
+1.0,Campbell,2.1,Virginia,3.4,USA
+5.0,Campbell,1.6,Kentucky,3.4,USA
+1.0,Campbell,1.8,Wyoming,3.4,USA
+2.0,Canadian,1.7,Oklahoma,3.4,USA
+1.0,Cannon,1.7,Tennessee,3.4,USA
+4.0,Canyon,2.0,Idaho,3.4,USA
+5.0,Cape Girardeau,2.7,Missouri,3.4,USA
+4.0,Cape May,5.4,New Jersey,3.4,USA
+1.0,Carbon,2.0,Utah,3.4,USA
+1.0,Carbon,4.6,Pennsylvania,3.4,USA
+1.0,Carbon,1.9,Montana,3.4,USA
+1.0,Caribou,2.0,Idaho,3.4,USA
+1.0,Carlisle,1.6,Kentucky,3.4,USA
+1.0,Carlton,2.9,Minnesota,3.4,USA
+2.0,Caroline,2.1,Virginia,3.4,USA
+2.0,Caroline,5.5,Maryland,3.4,USA
+3.0,Carroll,1.6,Arkansas,3.4,USA
+6.0,Carroll,5.5,Maryland,3.4,USA
+2.0,Carroll,2.4,Iowa,3.4,USA
+2.0,Carroll,2.7,Missouri,3.4,USA
+1.0,Carroll,3.4,Ohio,3.4,USA
+2.0,Carroll,2.0,Georgia,3.4,USA
+6.0,Carroll,8.0,New Hampshire,3.4,USA
+1.0,Carroll,4.2,Illinois,3.4,USA
+1.0,Carroll,1.6,Kentucky,3.4,USA
+1.0,Carroll,2.1,Virginia,3.4,USA
+1.0,Carroll,1.7,Mississippi,3.4,USA
+2.0,Carson City,3.2,Nevada,3.4,USA
+1.0,Carter,1.6,Kentucky,3.4,USA
+1.0,Carter,1.7,Oklahoma,3.4,USA
+2.0,Carteret,2.3,North Carolina,3.4,USA
+1.0,Carver,2.9,Minnesota,3.4,USA
+2.0,Cascade,1.9,Montana,3.4,USA
+3.0,Cass,2.4,Iowa,3.4,USA
+4.0,Cass,2.7,Missouri,3.4,USA
+3.0,Cass,1.7,North Dakota,3.4,USA
+1.0,Cass,2.9,Minnesota,3.4,USA
+1.0,Cass,2.1,Indiana,3.4,USA
+1.0,Cass,1.6,Nebraska,3.4,USA
+3.0,Cass County,2.9,Minnesota,3.4,USA
+5.0,Catawba,2.3,North Carolina,3.4,USA
+1.0,Catoosa,2.0,Georgia,3.4,USA
+6.0,Cattaraugus,9.4,New York,3.4,USA
+1.0,Cavalier,1.7,North Dakota,3.4,USA
+5.0,Cayuga,9.4,New York,3.4,USA
+1.0,Cecil,5.5,Maryland,3.4,USA
+3.0,Cedar,2.4,Iowa,3.4,USA
+2.0,Cedar,2.7,Missouri,3.4,USA
+1.0,Cedar,1.6,Nebraska,3.4,USA
+4.0,Centre,4.6,Pennsylvania,3.4,USA
+8.0,Centre County,4.6,Pennsylvania,3.4,USA
+4.0,Cerro Gordo,2.4,Iowa,3.4,USA
+2.0,Chaffee,3.2,Colorado,3.4,USA
+1.0,Chambers,2.1,Alabama,3.4,USA
+2.0,Champaign,3.4,Ohio,3.4,USA
+5.0,Champaign,4.2,Illinois,3.4,USA
+4.0,Charles,5.5,Maryland,3.4,USA
+1.0,Charles Mix,1.4,South Dakota,3.4,USA
+10.0,Charleston,3.0,South Carolina,3.4,USA
+3.0,Charlevoix,3.7,Michigan,3.4,USA
+1.0,Charlotte,3.9,Florida,3.4,USA
+3.0,Charlottesville,2.1,Virginia,3.4,USA
+3.0,Chatham,2.3,North Carolina,3.4,USA
+2.0,Chatham,2.0,Georgia,3.4,USA
+9.0,Chautauqua,9.4,New York,3.4,USA
+1.0,Chaves,2.5,New Mexico,3.4,USA
+2.0,Cheboygan,3.7,Michigan,3.4,USA
+2.0,Chelan,4.4,Washington,3.4,USA
+5.0,Chemung,9.4,New York,3.4,USA
+3.0,Chenango,9.4,New York,3.4,USA
+2.0,Cherokee,2.3,North Carolina,3.4,USA
+4.0,Cherokee,2.0,Georgia,3.4,USA
+1.0,Cherokee,2.1,Alabama,3.4,USA
+2.0,Cherokee,2.4,Texas,3.4,USA
+1.0,Cherokee,3.0,South Carolina,3.4,USA
+1.0,Cherokee,1.7,Oklahoma,3.4,USA
+1.0,Cherry,1.6,Nebraska,3.4,USA
+2.0,Chesapeake,2.1,Virginia,3.4,USA
+5.0,Cheshire,8.0,New Hampshire,3.4,USA
+9.0,Chester,4.6,Pennsylvania,3.4,USA
+1.0,Chester,3.0,South Carolina,3.4,USA
+7.0,Chesterfield,2.1,Virginia,3.4,USA
+3.0,Chesterfield,3.0,South Carolina,3.4,USA
+1.0,Cheyenne,1.6,Nebraska,3.4,USA
+1.0,Cheyenne,1.6,Kansas,3.4,USA
+1.0,Chickasaw,2.4,Iowa,3.4,USA
+1.0,Chicot,1.6,Arkansas,3.4,USA
+2.0,Chippewa,4.1,Wisconsin,3.4,USA
+1.0,Chippewa,2.9,Minnesota,3.4,USA
+2.0,Chippewa,3.7,Michigan,3.4,USA
+3.0,Chisago,2.9,Minnesota,3.4,USA
+15.0,Chittenden,6.9,Vermont,3.4,USA
+1.0,Choctaw,2.1,Alabama,3.4,USA
+1.0,Choctaw,1.7,Oklahoma,3.4,USA
+1.0,Chouteau,1.9,Montana,3.4,USA
+2.0,Chowan,2.3,North Carolina,3.4,USA
+2.0,Christian,1.6,Kentucky,3.4,USA
+3.0,Christian,2.7,Missouri,3.4,USA
+1.0,Christian,4.2,Illinois,3.4,USA
+2.0,Christiansted,1.3,Virgin Islands,3.4,USA
+1.0,Churchill,3.2,Nevada,3.4,USA
+16.0,Clackamas,4.6,Oregon,3.4,USA
+1.0,Claiborne,1.7,Tennessee,3.4,USA
+2.0,Clallam,4.4,Washington,3.4,USA
+3.0,Clare,3.7,Michigan,3.4,USA
+2.0,Clarendon,3.0,South Carolina,3.4,USA
+1.0,Clarion,4.6,Pennsylvania,3.4,USA
+7.0,Clark,4.1,Wisconsin,3.4,USA
+5.0,Clark,4.4,Washington,3.4,USA
+1.0,Clark,1.6,Arkansas,3.4,USA
+10.0,Clark,3.2,Nevada,3.4,USA
+1.0,Clark,2.1,Indiana,3.4,USA
+5.0,Clarke,2.0,Georgia,3.4,USA
+1.0,Clarke,2.4,Iowa,3.4,USA
+1.0,Clarke,2.1,Virginia,3.4,USA
+2.0,Clarke,2.1,Alabama,3.4,USA
+4.0,Clatsop,4.6,Oregon,3.4,USA
+6.0,Clay,2.7,Missouri,3.4,USA
+2.0,Clay,1.6,Arkansas,3.4,USA
+1.0,Clay,2.1,Alabama,3.4,USA
+2.0,Clay,2.4,Iowa,3.4,USA
+1.0,Clay,4.2,Illinois,3.4,USA
+2.0,Clay,3.9,Florida,3.4,USA
+1.0,Clay,2.3,North Carolina,3.4,USA
+1.0,Clay,2.4,Texas,3.4,USA
+1.0,Clay,1.6,Nebraska,3.4,USA
+3.0,Clay,1.4,South Dakota,3.4,USA
+1.0,Clay,1.7,Mississippi,3.4,USA
+1.0,Clay,2.9,Minnesota,3.4,USA
+1.0,Clay County,1.6,West Virginia,3.4,USA
+1.0,Clay County,2.9,Minnesota,3.4,USA
+1.0,Clayton,2.0,Georgia,3.4,USA
+6.0,Clayton,2.4,Iowa,3.4,USA
+2.0,Clearfield,4.6,Pennsylvania,3.4,USA
+1.0,Clearwater,2.9,Minnesota,3.4,USA
+1.0,Clearwater,2.0,Idaho,3.4,USA
+1.0,Cleburne,2.1,Alabama,3.4,USA
+1.0,Cleburne,1.6,Arkansas,3.4,USA
+2.0,Clermont,3.4,Ohio,3.4,USA
+2.0,Cleveland,2.3,North Carolina,3.4,USA
+1.0,Cleveland,1.7,Oklahoma,3.4,USA
+5.0,Clinton,3.7,Michigan,3.4,USA
+3.0,Clinton,2.4,Iowa,3.4,USA
+1.0,Clinton,4.2,Illinois,3.4,USA
+4.0,Clinton,9.4,New York,3.4,USA
+2.0,Clinton,3.4,Ohio,3.4,USA
+1.0,Clinton,1.6,Kentucky,3.4,USA
+1.0,Clinton,2.1,Indiana,3.4,USA
+1.0,Clinton,2.7,Missouri,3.4,USA
+1.0,Clinton,4.6,Pennsylvania,3.4,USA
+1.0,Cloud,1.6,Kansas,3.4,USA
+1.0,Coahoma,1.7,Mississippi,3.4,USA
+1.0,Coahoma County,1.7,Mississippi,3.4,USA
+5.0,Cobb,2.0,Georgia,3.4,USA
+3.0,Cochise,5.7,Arizona,3.4,USA
+1.0,Coconino,5.7,Arizona,3.4,USA
+2.0,Codington,1.4,South Dakota,3.4,USA
+1.0,Coffee,1.7,Tennessee,3.4,USA
+1.0,Coffee,2.1,Alabama,3.4,USA
+2.0,Coffey,1.6,Kansas,3.4,USA
+1.0,Coffey County,1.6,Kansas,3.4,USA
+2.0,Colbert,2.1,Alabama,3.4,USA
+5.0,Cole,2.7,Missouri,3.4,USA
+2.0,Coles,4.2,Illinois,3.4,USA
+2.0,Colfax,2.5,New Mexico,3.4,USA
+1.0,Colfax,1.6,Nebraska,3.4,USA
+2.0,Colleton,3.0,South Carolina,3.4,USA
+6.0,Collier,3.9,Florida,3.4,USA
+4.0,Collin,2.4,Texas,3.4,USA
+1.0,Columbia,4.6,Pennsylvania,3.4,USA
+9.0,Columbia,4.1,Wisconsin,3.4,USA
+7.0,Columbia,9.4,New York,3.4,USA
+1.0,Columbia,1.6,Arkansas,3.4,USA
+1.0,Columbia,2.0,Georgia,3.4,USA
+1.0,Columbia,3.9,Florida,3.4,USA
+1.0,Columbia,4.6,Oregon,3.4,USA
+1.0,Columbiana,3.4,Ohio,3.4,USA
+1.0,Columbus,2.3,North Carolina,3.4,USA
+1.0,Colusa,12.4,California,3.4,USA
+1.0,Comal,2.4,Texas,3.4,USA
+1.0,Comanche,1.7,Oklahoma,3.4,USA
+1.0,Conecuh,2.1,Alabama,3.4,USA
+23.0,Contra Costa,12.4,California,3.4,USA
+1.0,Converse,1.8,Wyoming,3.4,USA
+1.0,Conway,1.6,Arkansas,3.4,USA
+113.0,Cook,4.2,Illinois,3.4,USA
+1.0,Cook,2.9,Minnesota,3.4,USA
+2.0,Cooper,2.7,Missouri,3.4,USA
+3.0,Coos,8.0,New Hampshire,3.4,USA
+3.0,Coos,4.6,Oregon,3.4,USA
+3.0,Copiah,1.7,Mississippi,3.4,USA
+4.0,Cortland,9.4,New York,3.4,USA
+1.0,Coshocton,3.4,Ohio,3.4,USA
+2.0,Covington,2.1,Alabama,3.4,USA
+1.0,Coweta,2.0,Georgia,3.4,USA
+2.0,Cowley,1.6,Kansas,3.4,USA
+4.0,Cowlitz,4.4,Washington,3.4,USA
+1.0,Craig,1.7,Oklahoma,3.4,USA
+1.0,Craighead,1.6,Arkansas,3.4,USA
+1.0,Craven,2.3,North Carolina,3.4,USA
+4.0,Crawford,4.1,Wisconsin,3.4,USA
+4.0,Crawford,4.6,Pennsylvania,3.4,USA
+3.0,Crawford,2.7,Missouri,3.4,USA
+2.0,Crawford,3.7,Michigan,3.4,USA
+2.0,Crawford,2.4,Iowa,3.4,USA
+2.0,Crawford,2.1,Indiana,3.4,USA
+1.0,Crawford,3.4,Ohio,3.4,USA
+1.0,Crawford,1.6,Kansas,3.4,USA
+1.0,Crawford,4.2,Illinois,3.4,USA
+1.0,Crenshaw,2.1,Alabama,3.4,USA
+1.0,Crisp,2.0,Georgia,3.4,USA
+1.0,Crockett,1.7,Tennessee,3.4,USA
+1.0,Crook,4.6,Oregon,3.4,USA
+1.0,Cross,1.6,Arkansas,3.4,USA
+2.0,Crow Wing,2.9,Minnesota,3.4,USA
+1.0,Cullman,2.1,Alabama,3.4,USA
+1.0,Culpeper,2.1,Virginia,3.4,USA
+2.0,Cumberland,5.4,New Jersey,3.4,USA
+14.0,Cumberland,5.2,Maine,3.4,USA
+7.0,Cumberland,4.6,Pennsylvania,3.4,USA
+1.0,Cumberland,1.7,Tennessee,3.4,USA
+1.0,Cumberland,2.3,North Carolina,3.4,USA
+2.0,Cuming,1.6,Nebraska,3.4,USA
+2.0,Curry,4.6,Oregon,3.4,USA
+1.0,Curry,2.5,New Mexico,3.4,USA
+1.0,Custer,1.6,Nebraska,3.4,USA
+2.0,Custer,2.0,Idaho,3.4,USA
+1.0,Custer,1.4,South Dakota,3.4,USA
+1.0,Custer,1.9,Montana,3.4,USA
+1.0,Custer,1.7,Oklahoma,3.4,USA
+1.0,Custer,3.2,Colorado,3.4,USA
+25.0,Cuyahoga,3.4,Ohio,3.4,USA
+1.0,Dade,2.0,Georgia,3.4,USA
+7.0,Dakota,2.9,Minnesota,3.4,USA
+1.0,Dakota,1.6,Nebraska,3.4,USA
+1.0,Dakota County,2.9,Minnesota,3.4,USA
+2.0,Dale,2.1,Alabama,3.4,USA
+3.0,Dallas,2.4,Iowa,3.4,USA
+2.0,Dallas,2.7,Missouri,3.4,USA
+6.0,Dallas,2.4,Texas,3.4,USA
+1.0,Dallas,2.1,Alabama,3.4,USA
+34.0,Dane,4.1,Wisconsin,3.4,USA
+1.0,Dare,2.3,North Carolina,3.4,USA
+1.0,Darke,3.4,Ohio,3.4,USA
+1.0,Darlington,3.0,South Carolina,3.4,USA
+5.0,Dauphin,4.6,Pennsylvania,3.4,USA
+3.0,Davidson,2.3,North Carolina,3.4,USA
+6.0,Davidson,1.7,Tennessee,3.4,USA
+2.0,Davie,2.3,North Carolina,3.4,USA
+1.0,Daviess,1.6,Kentucky,3.4,USA
+3.0,Davis,2.0,Utah,3.4,USA
+2.0,Davis,2.4,Iowa,3.4,USA
+1.0,Dawes,1.6,Nebraska,3.4,USA
+3.0,Dawson,1.6,Nebraska,3.4,USA
+1.0,Dawson,2.0,Georgia,3.4,USA
+2.0,Dawson,1.9,Montana,3.4,USA
+1.0,De Soto,1.8,Louisiana,3.4,USA
+1.0,De Witt,4.2,Illinois,3.4,USA
+1.0,Deaf Smith,2.4,Texas,3.4,USA
+2.0,Decatur,2.1,Indiana,3.4,USA
+1.0,Decatur,1.6,Kansas,3.4,USA
+1.0,Decatur,2.4,Iowa,3.4,USA
+1.0,Deer Lodge,1.9,Montana,3.4,USA
+3.0,Defiance,3.4,Ohio,3.4,USA
+8.0,DeKalb,2.0,Georgia,3.4,USA
+3.0,Dekalb,2.1,Alabama,3.4,USA
+1.0,DeKalb,1.7,Tennessee,3.4,USA
+3.0,DeKalb,4.2,Illinois,3.4,USA
+1.0,Del Norte,12.4,California,3.4,USA
+2.0,Delaware,2.4,Iowa,3.4,USA
+4.0,Delaware,3.4,Ohio,3.4,USA
+9.0,Delaware,9.4,New York,3.4,USA
+4.0,Delaware,4.6,Pennsylvania,3.4,USA
+1.0,Delaware,2.1,Indiana,3.4,USA
+1.0,Delta,3.7,Michigan,3.4,USA
+1.0,Delta,3.2,Colorado,3.4,USA
+1.0,Dent,2.7,Missouri,3.4,USA
+3.0,Denton,2.4,Texas,3.4,USA
+13.0,Denver,3.2,Colorado,3.4,USA
+3.0,Des Moines,2.4,Iowa,3.4,USA
+3.0,Deschutes,4.6,Oregon,3.4,USA
+2.0,DeSoto,1.7,Mississippi,3.4,USA
+1.0,Dewitt,2.4,Texas,3.4,USA
+1.0,Dickenson,2.1,Virginia,3.4,USA
+1.0,Dickinson,1.6,Kansas,3.4,USA
+1.0,Dickinson,3.7,Michigan,3.4,USA
+1.0,Dickinson,2.4,Iowa,3.4,USA
+1.0,Dickson,1.7,Tennessee,3.4,USA
+34.0,District of Columbia,34.0,District of Columbia,3.4,USA
+1.0,Divide,1.7,North Dakota,3.4,USA
+1.0,Dixie,3.9,Florida,3.4,USA
+1.0,Dodge,2.9,Minnesota,3.4,USA
+5.0,Dodge,4.1,Wisconsin,3.4,USA
+1.0,Dodge,1.6,Nebraska,3.4,USA
+5.0,Dona Ana,2.5,New Mexico,3.4,USA
+3.0,Door,4.1,Wisconsin,3.4,USA
+1.0,Dorchester,5.5,Maryland,3.4,USA
+1.0,Dorchester,3.0,South Carolina,3.4,USA
+1.0,Dougherty,2.0,Georgia,3.4,USA
+4.0,Douglas,2.0,Georgia,3.4,USA
+1.0,Douglas,2.9,Minnesota,3.4,USA
+3.0,Douglas,1.6,Kansas,3.4,USA
+5.0,Douglas,4.1,Wisconsin,3.4,USA
+8.0,Douglas,1.6,Nebraska,3.4,USA
+5.0,Douglas,4.6,Oregon,3.4,USA
+5.0,Douglas,3.2,Colorado,3.4,USA
+1.0,Douglas,3.2,Nevada,3.4,USA
+1.0,Douglas County,4.6,Oregon,3.4,USA
+1.0,Dubois,2.1,Indiana,3.4,USA
+5.0,Dubuque,2.4,Iowa,3.4,USA
+1.0,Duchesne,2.0,Utah,3.4,USA
+2.0,Dukes County,17.6,Massachusetts,3.4,USA
+1.0,Dunklin,2.7,Missouri,3.4,USA
+3.0,Dunn,4.1,Wisconsin,3.4,USA
+1.0,Dunn,1.7,North Dakota,3.4,USA
+11.0,DuPage,4.2,Illinois,3.4,USA
+4.0,Durham,2.3,North Carolina,3.4,USA
+13.0,Dutchess,9.4,New York,3.4,USA
+7.0,Duval,3.9,Florida,3.4,USA
+1.0,Dyer,1.7,Tennessee,3.4,USA
+7.0,Eagle,3.2,Colorado,3.4,USA
+4.0,East Baton Rouge,1.8,Louisiana,3.4,USA
+6.0,Eaton,3.7,Michigan,3.4,USA
+4.0,Eau Claire,4.1,Wisconsin,3.4,USA
+1.0,Eddy,2.5,New Mexico,3.4,USA
+1.0,Edgar,4.2,Illinois,3.4,USA
+1.0,Edgecombe,2.3,North Carolina,3.4,USA
+1.0,Edmonson,1.6,Kentucky,3.4,USA
+1.0,Edwards,4.2,Illinois,3.4,USA
+9.0,El Dorado,12.4,California,3.4,USA
+15.0,El Paso,3.2,Colorado,3.4,USA
+13.0,El Paso,2.4,Texas,3.4,USA
+1.0,Elbert,3.2,Colorado,3.4,USA
+5.0,Elkhart,2.1,Indiana,3.4,USA
+1.0,Elko,3.2,Nevada,3.4,USA
+1.0,Elliott,1.6,Kentucky,3.4,USA
+1.0,Ellis,1.6,Kansas,3.4,USA
+1.0,Ellis,2.4,Texas,3.4,USA
+1.0,Elmore,2.0,Idaho,3.4,USA
+1.0,ELMORE,2.1,Alabama,3.4,USA
+3.0,Emmet,3.7,Michigan,3.4,USA
+1.0,Emmet,2.4,Iowa,3.4,USA
+1.0,Emmons,1.7,North Dakota,3.4,USA
+1.0,Emporia,2.1,Virginia,3.4,USA
+17.0,Erie,9.4,New York,3.4,USA
+2.0,Erie,4.6,Pennsylvania,3.4,USA
+3.0,Escambia,2.1,Alabama,3.4,USA
+2.0,Escambia,3.9,Florida,3.4,USA
+2.0,Escambia County,3.9,Florida,3.4,USA
+9.0,Essex,9.4,New York,3.4,USA
+18.0,Essex,17.6,Massachusetts,3.4,USA
+11.0,Essex,5.4,New Jersey,3.4,USA
+1.0,Essex,6.9,Vermont,3.4,USA
+1.0,Essex,2.1,Virginia,3.4,USA
+1.0,Estill,1.6,Kentucky,3.4,USA
+3.0,Etowah,2.1,Alabama,3.4,USA
+1.0,Eureka,3.2,Nevada,3.4,USA
+1.0,Evangeline,1.8,Louisiana,3.4,USA
+3.0,Fairbanks North Star,2.6,Alaska,3.4,USA
+16.0,Fairfax,2.1,Virginia,3.4,USA
+2.0,Fairfax City,2.1,Virginia,3.4,USA
+2.0,Fairfield,3.4,Ohio,3.4,USA
+32.0,Fairfield,16.4,Connecticut,3.4,USA
+1.0,Fall River,1.4,South Dakota,3.4,USA
+1.0,Fall River County,1.4,South Dakota,3.4,USA
+3.0,Faulkner,1.6,Arkansas,3.4,USA
+3.0,Fauquier,2.1,Virginia,3.4,USA
+2.0,Fauquier County,2.1,Virginia,3.4,USA
+5.0,Fayette,1.6,Kentucky,3.4,USA
+5.0,Fayette,4.6,Pennsylvania,3.4,USA
+1.0,Fayette,2.1,Indiana,3.4,USA
+3.0,Fayette,2.4,Iowa,3.4,USA
+2.0,Fayette,1.6,West Virginia,3.4,USA
+1.0,Fayette,3.4,Ohio,3.4,USA
+1.0,Fayette,1.7,Tennessee,3.4,USA
+1.0,Fayette,2.1,Alabama,3.4,USA
+2.0,Fayette,2.0,Georgia,3.4,USA
+1.0,Fayette,2.4,Texas,3.4,USA
+1.0,Fergus,1.9,Montana,3.4,USA
+1.0,Fillmore,1.6,Nebraska,3.4,USA
+2.0,Fillmore,2.9,Minnesota,3.4,USA
+1.0,Finney,1.6,Kansas,3.4,USA
+1.0,Flagler,3.9,Florida,3.4,USA
+5.0,Flathead,1.9,Montana,3.4,USA
+1.0,Fleming,1.6,Kentucky,3.4,USA
+2.0,Florence,3.0,South Carolina,3.4,USA
+3.0,Floyd,2.4,Iowa,3.4,USA
+1.0,Floyd,1.6,Kentucky,3.4,USA
+1.0,Floyd,2.1,Virginia,3.4,USA
+2.0,Floyd,2.1,Indiana,3.4,USA
+1.0,Floyd,2.0,Georgia,3.4,USA
+2.0,Fluvanna,2.1,Virginia,3.4,USA
+4.0,Fond du Lac,4.1,Wisconsin,3.4,USA
+1.0,Ford,1.6,Kansas,3.4,USA
+2.0,Ford,4.2,Illinois,3.4,USA
+1.0,Forest,4.6,Pennsylvania,3.4,USA
+6.0,Forrest,1.7,Mississippi,3.4,USA
+2.0,Forsyth,2.0,Georgia,3.4,USA
+3.0,Forsyth,2.3,North Carolina,3.4,USA
+1.0,Fort Bend,2.4,Texas,3.4,USA
+1.0,Fort Bend County,2.4,Texas,3.4,USA
+6.0,Franklin,9.4,New York,3.4,USA
+11.0,Franklin,17.6,Massachusetts,3.4,USA
+2.0,Franklin,4.2,Illinois,3.4,USA
+25.0,Franklin,3.4,Ohio,3.4,USA
+1.0,Franklin,2.1,Indiana,3.4,USA
+5.0,Franklin,2.7,Missouri,3.4,USA
+4.0,Franklin,5.2,Maine,3.4,USA
+1.0,Franklin,2.3,North Carolina,3.4,USA
+1.0,Franklin,2.4,Iowa,3.4,USA
+2.0,Franklin,2.1,Alabama,3.4,USA
+1.0,Franklin,1.6,Kentucky,3.4,USA
+2.0,Franklin,4.6,Pennsylvania,3.4,USA
+1.0,Franklin,2.0,Georgia,3.4,USA
+2.0,Franklin,2.4,Texas,3.4,USA
+4.0,Franklin,6.9,Vermont,3.4,USA
+1.0,Franklin,1.6,Kansas,3.4,USA
+1.0,Franklin,4.4,Washington,3.4,USA
+1.0,Franklin,2.1,Virginia,3.4,USA
+1.0,Franklin County,5.2,Maine,3.4,USA
+13.0,Frederick,5.5,Maryland,3.4,USA
+3.0,Frederick,2.1,Virginia,3.4,USA
+1.0,Frederiksted,1.3,Virgin Islands,3.4,USA
+1.0,Freeborn,2.9,Minnesota,3.4,USA
+2.0,Fremont,2.0,Idaho,3.4,USA
+3.0,Fremont,3.2,Colorado,3.4,USA
+6.0,Fremont,1.8,Wyoming,3.4,USA
+1.0,Fremont,2.4,Iowa,3.4,USA
+15.0,Fresno,12.4,California,3.4,USA
+1.0,Frontier,1.6,Nebraska,3.4,USA
+13.0,Fulton,2.0,Georgia,3.4,USA
+2.0,Fulton,4.2,Illinois,3.4,USA
+2.0,Fulton,2.1,Indiana,3.4,USA
+3.0,Fulton,9.4,New York,3.4,USA
+1.0,Fulton,4.6,Pennsylvania,3.4,USA
+1.0,Gadsden,3.9,Florida,3.4,USA
+3.0,Gage,1.6,Nebraska,3.4,USA
+1.0,Galax,2.1,Virginia,3.4,USA
+6.0,Gallatin,1.9,Montana,3.4,USA
+1.0,Gallatin,1.6,Kentucky,3.4,USA
+2.0,Gallia,3.4,Ohio,3.4,USA
+3.0,Galveston,2.4,Texas,3.4,USA
+2.0,Garfield,2.0,Utah,3.4,USA
+4.0,Garfield,3.2,Colorado,3.4,USA
+1.0,Garfield,1.7,Oklahoma,3.4,USA
+1.0,Garfield County,1.6,Nebraska,3.4,USA
+1.0,Garland,1.6,Arkansas,3.4,USA
+2.0,Garrard,1.6,Kentucky,3.4,USA
+1.0,Garrett,5.5,Maryland,3.4,USA
+3.0,Gasconade,2.7,Missouri,3.4,USA
+4.0,Gaston,2.3,North Carolina,3.4,USA
+2.0,Geary,1.6,Kansas,3.4,USA
+2.0,Geauga,3.4,Ohio,3.4,USA
+1.0,Gem,2.0,Idaho,3.4,USA
+6.0,Genesee,3.7,Michigan,3.4,USA
+3.0,Genesee,9.4,New York,3.4,USA
+2.0,Georgetown,3.0,South Carolina,3.4,USA
+1.0,Gibson,2.1,Indiana,3.4,USA
+1.0,Gila,5.7,Arizona,3.4,USA
+1.0,Giles,1.7,Tennessee,3.4,USA
+1.0,Gillespie,2.4,Texas,3.4,USA
+1.0,Gilliam,4.6,Oregon,3.4,USA
+1.0,Gilmer,2.0,Georgia,3.4,USA
+1.0,Gilmer,1.6,West Virginia,3.4,USA
+1.0,Gladwin,3.7,Michigan,3.4,USA
+3.0,Glenn,12.4,California,3.4,USA
+2.0,Gloucester,5.4,New Jersey,3.4,USA
+1.0,Gloucester,2.1,Virginia,3.4,USA
+1.0,Golden Valley,1.7,North Dakota,3.4,USA
+3.0,Goochland,2.1,Virginia,3.4,USA
+3.0,Goodhue,2.9,Minnesota,3.4,USA
+1.0,Gooding,2.0,Idaho,3.4,USA
+2.0,Goshen,1.8,Wyoming,3.4,USA
+1.0,Grady,2.0,Georgia,3.4,USA
+2.0,Grady,1.7,Oklahoma,3.4,USA
+8.0,Grafton,8.0,New Hampshire,3.4,USA
+1.0,Graham,2.3,North Carolina,3.4,USA
+1.0,Graham,5.7,Arizona,3.4,USA
+1.0,Grand,3.2,Colorado,3.4,USA
+1.0,Grand,2.0,Utah,3.4,USA
+1.0,Grand Forks,1.7,North Dakota,3.4,USA
+2.0,Grand Isle,6.9,Vermont,3.4,USA
+3.0,Grand Traverse,3.7,Michigan,3.4,USA
+4.0,Grant,4.1,Wisconsin,3.4,USA
+2.0,Grant,4.6,Oregon,3.4,USA
+1.0,Grant,1.7,North Dakota,3.4,USA
+1.0,Grant,4.4,Washington,3.4,USA
+4.0,Grant,1.6,Kentucky,3.4,USA
+4.0,Grant,2.1,Indiana,3.4,USA
+1.0,Grant,1.6,Arkansas,3.4,USA
+1.0,Grant,1.6,West Virginia,3.4,USA
+2.0,Grant,2.5,New Mexico,3.4,USA
+1.0,Grant County,1.7,Oklahoma,3.4,USA
+3.0,Granville,2.3,North Carolina,3.4,USA
+2.0,Gratiot,3.7,Michigan,3.4,USA
+2.0,Graves,1.6,Kentucky,3.4,USA
+1.0,Grays Harbor,4.4,Washington,3.4,USA
+1.0,Grayson,2.4,Texas,3.4,USA
+1.0,Grayson,1.6,Kentucky,3.4,USA
+1.0,Grayson,2.1,Virginia,3.4,USA
+1.0,Green,4.1,Wisconsin,3.4,USA
+2.0,Green Lake,4.1,Wisconsin,3.4,USA
+3.0,Greenbrier,1.6,West Virginia,3.4,USA
+10.0,Greene,3.4,Ohio,3.4,USA
+8.0,Greene,2.7,Missouri,3.4,USA
+2.0,Greene,4.2,Illinois,3.4,USA
+5.0,Greene,9.4,New York,3.4,USA
+3.0,Greene,1.7,Tennessee,3.4,USA
+1.0,Greene,2.3,North Carolina,3.4,USA
+2.0,Greene,4.6,Pennsylvania,3.4,USA
+1.0,Greene,2.4,Iowa,3.4,USA
+1.0,Greene,2.1,Virginia,3.4,USA
+2.0,Greene,2.1,Alabama,3.4,USA
+1.0,Greene,1.6,Arkansas,3.4,USA
+1.0,Greene,2.1,Indiana,3.4,USA
+2.0,Greene County,3.4,Ohio,3.4,USA
+1.0,Greenup,1.6,Kentucky,3.4,USA
+6.0,Greenville,3.0,South Carolina,3.4,USA
+2.0,Greenwood,3.0,South Carolina,3.4,USA
+1.0,Gregg,2.4,Texas,3.4,USA
+2.0,Grenada,1.7,Mississippi,3.4,USA
+1.0,Griggs,1.7,North Dakota,3.4,USA
+1.0,Grundy,4.2,Illinois,3.4,USA
+1.0,Grundy,2.4,Iowa,3.4,USA
+1.0,Grundy,2.7,Missouri,3.4,USA
+3.0,Guadalupe,2.4,Texas,3.4,USA
+1.0,Guernsey,3.4,Ohio,3.4,USA
+1.0,Guernsey County,3.4,Ohio,3.4,USA
+3.0,Guilford,2.3,North Carolina,3.4,USA
+1.0,Gulf,3.9,Florida,3.4,USA
+2.0,Gunnison,3.2,Colorado,3.4,USA
+3.0,Guthrie,2.4,Iowa,3.4,USA
+4.0,Gwinnett,2.0,Georgia,3.4,USA
+2.0,Habersham,2.0,Georgia,3.4,USA
+1.0,Haines,2.6,Alaska,3.4,USA
+1.0,Hale,2.1,Alabama,3.4,USA
+1.0,Halifax,2.1,Virginia,3.4,USA
+1.0,Halifax,2.3,North Carolina,3.4,USA
+3.0,Hall,2.0,Georgia,3.4,USA
+2.0,Hall,1.6,Nebraska,3.4,USA
+1.0,Hamblen,1.7,Tennessee,3.4,USA
+15.0,Hamilton,3.4,Ohio,3.4,USA
+1.0,Hamilton,1.6,Nebraska,3.4,USA
+5.0,Hamilton,2.1,Indiana,3.4,USA
+3.0,Hamilton,1.7,Tennessee,3.4,USA
+1.0,Hamilton,9.4,New York,3.4,USA
+1.0,Hamilton,2.4,Iowa,3.4,USA
+1.0,Hamlin,1.4,South Dakota,3.4,USA
+17.0,Hampden,17.6,Massachusetts,3.4,USA
+8.0,Hampshire,17.6,Massachusetts,3.4,USA
+1.0,Hampshire,1.6,West Virginia,3.4,USA
+2.0,Hampton,3.0,South Carolina,3.4,USA
+1.0,Hampton,2.1,Virginia,3.4,USA
+10.0,Hancock,5.2,Maine,3.4,USA
+3.0,Hancock,2.4,Iowa,3.4,USA
+1.0,Hancock,4.2,Illinois,3.4,USA
+3.0,Hancock,3.4,Ohio,3.4,USA
+3.0,Hancock,2.1,Indiana,3.4,USA
+1.0,Hancock,1.7,Mississippi,3.4,USA
+2.0,Hancock,1.6,West Virginia,3.4,USA
+2.0,Hancock County,3.4,Ohio,3.4,USA
+3.0,Hanover,2.1,Virginia,3.4,USA
+1.0,Haralson,2.0,Georgia,3.4,USA
+4.0,Hardin,2.4,Iowa,3.4,USA
+2.0,Hardin,3.4,Ohio,3.4,USA
+1.0,Hardin,1.7,Tennessee,3.4,USA
+4.0,Hardin,1.6,Kentucky,3.4,USA
+3.0,Harford,5.5,Maryland,3.4,USA
+2.0,Harlan,1.6,Nebraska,3.4,USA
+2.0,Harnett,2.3,North Carolina,3.4,USA
+1.0,Harnett County,2.3,North Carolina,3.4,USA
+1.0,Harney,4.6,Oregon,3.4,USA
+2.0,Harper,1.6,Kansas,3.4,USA
+5.0,Harris,2.4,Texas,3.4,USA
+2.0,Harris,2.0,Georgia,3.4,USA
+1.0,Harrison,2.7,Missouri,3.4,USA
+4.0,Harrison,1.6,West Virginia,3.4,USA
+7.0,Harrison,1.7,Mississippi,3.4,USA
+1.0,Harrison,2.1,Indiana,3.4,USA
+1.0,Harrison,1.6,Kentucky,3.4,USA
+1.0,Harrison,2.4,Iowa,3.4,USA
+1.0,Harrisonburg,2.1,Virginia,3.4,USA
+1.0,Hart,1.6,Kentucky,3.4,USA
+2.0,Hart,2.0,Georgia,3.4,USA
+32.0,Hartford,16.4,Connecticut,3.4,USA
+2.0,Harvey,1.6,Kansas,3.4,USA
+1.0,Haskell,1.7,Oklahoma,3.4,USA
+21.0,Hawaii,16.8,Hawaii,3.4,USA
+3.0,Hawaii County,16.8,Hawaii,3.4,USA
+1.0,Hawkins,1.7,Tennessee,3.4,USA
+3.0,Hays,2.4,Texas,3.4,USA
+4.0,Haywood,2.3,North Carolina,3.4,USA
+1.0,Hempstead,1.6,Arkansas,3.4,USA
+4.0,Henderson,2.3,North Carolina,3.4,USA
+1.0,Henderson,3.7,Michigan,3.4,USA
+1.0,Henderson,1.6,Kentucky,3.4,USA
+1.0,Henderson County,1.7,Tennessee,3.4,USA
+4.0,Hendricks,2.1,Indiana,3.4,USA
+50.0,Hennepin,2.9,Minnesota,3.4,USA
+2.0,Hennepin County,2.9,Minnesota,3.4,USA
+2.0,Henrico,2.1,Virginia,3.4,USA
+2.0,HENRY,2.1,Alabama,3.4,USA
+2.0,Henry,2.7,Missouri,3.4,USA
+1.0,Henry,2.1,Indiana,3.4,USA
+1.0,Henry,1.7,Tennessee,3.4,USA
+1.0,Henry,1.6,Kentucky,3.4,USA
+1.0,Henry,2.1,Virginia,3.4,USA
+2.0,Henry,2.4,Iowa,3.4,USA
+8.0,Herkimer,9.4,New York,3.4,USA
+1.0,Hernando,3.9,Florida,3.4,USA
+1.0,Hickman,1.7,Tennessee,3.4,USA
+4.0,Highland,3.4,Ohio,3.4,USA
+1.0,Highland,2.1,Virginia,3.4,USA
+1.0,Hill,1.9,Montana,3.4,USA
+16.0,Hillsborough,8.0,New Hampshire,3.4,USA
+11.0,Hillsborough,3.9,Florida,3.4,USA
+1.0,Hillsdale,3.7,Michigan,3.4,USA
+4.0,Hinds,1.7,Mississippi,3.4,USA
+1.0,Hocking,3.4,Ohio,3.4,USA
+5.0,Holmes,3.4,Ohio,3.4,USA
+2.0,Holmes County,3.4,Ohio,3.4,USA
+40.0,Honolulu,16.8,Hawaii,3.4,USA
+3.0,Hood River,4.6,Oregon,3.4,USA
+1.0,Hopkins,2.4,Texas,3.4,USA
+6.0,Horry,3.0,South Carolina,3.4,USA
+1.0,Hot Spring,1.6,Arkansas,3.4,USA
+1.0,Hot Springs County,1.8,Wyoming,3.4,USA
+4.0,Houghton,3.7,Michigan,3.4,USA
+3.0,Houston,2.1,Alabama,3.4,USA
+2.0,Houston,2.0,Georgia,3.4,USA
+1.0,Houston,2.9,Minnesota,3.4,USA
+5.0,Howard,2.4,Iowa,3.4,USA
+1.0,Howard,2.7,Missouri,3.4,USA
+1.0,Howard,1.6,Arkansas,3.4,USA
+5.0,Howard,5.5,Maryland,3.4,USA
+1.0,Howard,2.1,Indiana,3.4,USA
+3.0,Howell,2.7,Missouri,3.4,USA
+2.0,Hubbard,2.9,Minnesota,3.4,USA
+6.0,Hudson,5.4,New Jersey,3.4,USA
+1.0,Huerfano,3.2,Colorado,3.4,USA
+2.0,Hughes,1.4,South Dakota,3.4,USA
+16.0,Humboldt,12.4,California,3.4,USA
+1.0,Humboldt,2.4,Iowa,3.4,USA
+1.0,Humboldt,3.2,Nevada,3.4,USA
+4.0,Hunterdon,5.4,New Jersey,3.4,USA
+1.0,Huntingdon,4.6,Pennsylvania,3.4,USA
+1.0,Huntington,2.1,Indiana,3.4,USA
+2.0,Huron,3.4,Ohio,3.4,USA
+1.0,Huron,3.7,Michigan,3.4,USA
+1.0,Hyde,1.4,South Dakota,3.4,USA
+2.0,Iberia,1.8,Louisiana,3.4,USA
+1.0,Ida,2.4,Iowa,3.4,USA
+1.0,Idaho,2.0,Idaho,3.4,USA
+1.0,Imperial,12.4,California,3.4,USA
+2.0,Indian River,3.9,Florida,3.4,USA
+1.0,Indian River County,3.9,Florida,3.4,USA
+14.0,Ingham,3.7,Michigan,3.4,USA
+4.0,Inyo,12.4,California,3.4,USA
+3.0,Ionia,3.7,Michigan,3.4,USA
+2.0,Iosco,3.7,Michigan,3.4,USA
+2.0,Iowa,4.1,Wisconsin,3.4,USA
+3.0,Iowa,2.4,Iowa,3.4,USA
+3.0,Iredell,2.3,North Carolina,3.4,USA
+1.0,Iron,2.7,Missouri,3.4,USA
+1.0,Iron,2.0,Utah,3.4,USA
+1.0,Iron,4.1,Wisconsin,3.4,USA
+1.0,Iron,3.7,Michigan,3.4,USA
+1.0,Iroquois,4.2,Illinois,3.4,USA
+1.0,Isabella,3.7,Michigan,3.4,USA
+2.0,Isanti,2.9,Minnesota,3.4,USA
+4.0,Island,4.4,Washington,3.4,USA
+2.0,Isle of Wight,2.1,Virginia,3.4,USA
+1.0,Itasca,2.9,Minnesota,3.4,USA
+2.0,Itawamba,1.7,Mississippi,3.4,USA
+1.0,Izard,1.6,Arkansas,3.4,USA
+1.0,Jackson,1.7,Oklahoma,3.4,USA
+10.0,Jackson,4.6,Oregon,3.4,USA
+4.0,Jackson,4.2,Illinois,3.4,USA
+22.0,Jackson,2.7,Missouri,3.4,USA
+3.0,Jackson,2.4,Iowa,3.4,USA
+2.0,Jackson,4.1,Wisconsin,3.4,USA
+2.0,Jackson,2.1,Indiana,3.4,USA
+4.0,Jackson,3.7,Michigan,3.4,USA
+1.0,Jackson,1.6,Arkansas,3.4,USA
+1.0,Jackson,1.6,Kentucky,3.4,USA
+2.0,Jackson,2.3,North Carolina,3.4,USA
+1.0,Jackson,1.6,West Virginia,3.4,USA
+3.0,Jackson,1.7,Mississippi,3.4,USA
+1.0,Jackson,1.6,Kansas,3.4,USA
+2.0,Jackson,3.9,Florida,3.4,USA
+1.0,Jackson,2.1,Alabama,3.4,USA
+1.0,Jackson County,2.3,North Carolina,3.4,USA
+1.0,Jackson County,3.7,Michigan,3.4,USA
+1.0,Jackson County,4.1,Wisconsin,3.4,USA
+1.0,James City,2.1,Virginia,3.4,USA
+3.0,Jasper,2.4,Iowa,3.4,USA
+3.0,Jasper,2.7,Missouri,3.4,USA
+1.0,Jasper,3.0,South Carolina,3.4,USA
+1.0,Jasper,2.4,Texas,3.4,USA
+2.0,Jasper,2.1,Indiana,3.4,USA
+2.0,Jay,2.1,Indiana,3.4,USA
+16.0,Jefferson,9.4,New York,3.4,USA
+5.0,Jefferson,2.7,Missouri,3.4,USA
+6.0,Jefferson,3.2,Colorado,3.4,USA
+2.0,Jefferson,2.4,Texas,3.4,USA
+15.0,Jefferson,1.6,Kentucky,3.4,USA
+16.0,JEFFERSON,2.1,Alabama,3.4,USA
+2.0,Jefferson,1.9,Montana,3.4,USA
+5.0,Jefferson,1.6,West Virginia,3.4,USA
+2.0,Jefferson,4.4,Washington,3.4,USA
+2.0,Jefferson,1.7,Tennessee,3.4,USA
+2.0,Jefferson,3.4,Ohio,3.4,USA
+1.0,Jefferson,1.6,Nebraska,3.4,USA
+1.0,Jefferson,2.4,Iowa,3.4,USA
+3.0,Jefferson,1.8,Louisiana,3.4,USA
+3.0,Jefferson,4.1,Wisconsin,3.4,USA
+1.0,Jefferson,2.1,Indiana,3.4,USA
+1.0,Jefferson,4.6,Oregon,3.4,USA
+1.0,Jefferson,3.9,Florida,3.4,USA
+1.0,Jefferson,1.6,Kansas,3.4,USA
+2.0,Jefferson,1.6,Arkansas,3.4,USA
+1.0,Jefferson,4.6,Pennsylvania,3.4,USA
+2.0,Jefferson County,3.2,Colorado,3.4,USA
+3.0,Jefferson Davis,1.8,Louisiana,3.4,USA
+1.0,Jennings,2.1,Indiana,3.4,USA
+1.0,Jerauld County,1.4,South Dakota,3.4,USA
+1.0,Jersey,4.2,Illinois,3.4,USA
+1.0,Jessamine,1.6,Kentucky,3.4,USA
+6.0,Jo Daviess,4.2,Illinois,3.4,USA
+4.0,Johnson,2.7,Missouri,3.4,USA
+1.0,Johnson,1.8,Wyoming,3.4,USA
+2.0,Johnson,1.6,Arkansas,3.4,USA
+4.0,Johnson,2.4,Iowa,3.4,USA
+7.0,Johnson,1.6,Kansas,3.4,USA
+1.0,Johnson,2.1,Indiana,3.4,USA
+4.0,Johnson,1.7,Tennessee,3.4,USA
+1.0,Johnson,1.6,Kentucky,3.4,USA
+3.0,Johnston,2.3,North Carolina,3.4,USA
+2.0,Jones,2.4,Iowa,3.4,USA
+1.0,Jones,1.7,Mississippi,3.4,USA
+4.0,Josephine,4.6,Oregon,3.4,USA
+1.0,Judith Basin,1.9,Montana,3.4,USA
+10.0,Kalamazoo,3.7,Michigan,3.4,USA
+2.0,Kalkaska,3.7,Michigan,3.4,USA
+1.0,Kanabec,2.9,Minnesota,3.4,USA
+1.0,Kanawha,1.6,West Virginia,3.4,USA
+2.0,Kandiyohi,2.9,Minnesota,3.4,USA
+1.0,Kandiyohi County,2.9,Minnesota,3.4,USA
+9.0,Kane,4.2,Illinois,3.4,USA
+1.0,Kane,2.0,Utah,3.4,USA
+4.0,Kankakee,4.2,Illinois,3.4,USA
+13.0,Kauai,16.8,Hawaii,3.4,USA
+2.0,Kay,1.7,Oklahoma,3.4,USA
+2.0,Kearney,1.6,Nebraska,3.4,USA
+1.0,Keith,1.6,Nebraska,3.4,USA
+4.0,Kenai Peninsula,2.6,Alaska,3.4,USA
+2.0,Kendall,2.4,Texas,3.4,USA
+7.0,Kennebec,5.2,Maine,3.4,USA
+8.0,Kenosha,4.1,Wisconsin,3.4,USA
+18.0,Kent,3.7,Michigan,3.4,USA
+1.0,Kent,5.5,Maryland,3.4,USA
+2.0,Kent,7.3,Delaware,3.4,USA
+3.0,Kent,9.2,Rhode Island,3.4,USA
+3.0,Kent County,3.7,Michigan,3.4,USA
+2.0,Kenton,1.6,Kentucky,3.4,USA
+1.0,Keokuk,2.4,Iowa,3.4,USA
+20.0,KERN,12.4,California,3.4,USA
+1.0,Kershaw,3.0,South Carolina,3.4,USA
+1.0,Kewaunee,4.1,Wisconsin,3.4,USA
+38.0,King,4.4,Washington,3.4,USA
+1.0,King and Queen,2.1,Virginia,3.4,USA
+1.0,King George,2.1,Virginia,3.4,USA
+1.0,King William,2.1,Virginia,3.4,USA
+42.0,Kings,9.4,New York,3.4,USA
+2.0,Kings,12.4,California,3.4,USA
+1.0,Kinney,2.4,Texas,3.4,USA
+1.0,Kiowa,1.7,Oklahoma,3.4,USA
+8.0,Kitsap,4.4,Washington,3.4,USA
+1.0,Kittitas,4.4,Washington,3.4,USA
+4.0,Klamath,4.6,Oregon,3.4,USA
+1.0,Klickitat,4.4,Washington,3.4,USA
+3.0,Knox,3.4,Ohio,3.4,USA
+6.0,Knox,1.7,Tennessee,3.4,USA
+2.0,Knox,4.2,Illinois,3.4,USA
+4.0,Knox,5.2,Maine,3.4,USA
+1.0,Knox,2.1,Indiana,3.4,USA
+3.0,Kootenai,2.0,Idaho,3.4,USA
+2.0,Kosciusko,2.1,Indiana,3.4,USA
+3.0,Kossuth,2.4,Iowa,3.4,USA
+5.0,La Crosse,4.1,Wisconsin,3.4,USA
+1.0,La Plata,3.2,Colorado,3.4,USA
+5.0,La Salle,4.2,Illinois,3.4,USA
+1.0,Labette,1.6,Kansas,3.4,USA
+3.0,Lackawanna,4.6,Pennsylvania,3.4,USA
+2.0,Laclede,2.7,Missouri,3.4,USA
+3.0,Lafayette,1.8,Louisiana,3.4,USA
+8.0,Lafayette,2.7,Missouri,3.4,USA
+2.0,Lafayette,4.1,Wisconsin,3.4,USA
+1.0,Lafayette,3.9,Florida,3.4,USA
+2.0,Lafayette,1.7,Mississippi,3.4,USA
+1.0,Lafourche,1.8,Louisiana,3.4,USA
+3.0,Lagrange,2.1,Indiana,3.4,USA
+12.0,Lake,4.2,Illinois,3.4,USA
+3.0,Lake,3.9,Florida,3.4,USA
+8.0,Lake,12.4,California,3.4,USA
+6.0,Lake,2.1,Indiana,3.4,USA
+2.0,Lake,1.9,Montana,3.4,USA
+4.0,Lake,3.4,Ohio,3.4,USA
+2.0,Lake,4.6,Oregon,3.4,USA
+1.0,Lake of the Woods,2.9,Minnesota,3.4,USA
+1.0,Lamar,2.0,Georgia,3.4,USA
+1.0,Lamar,2.1,Alabama,3.4,USA
+1.0,Lamar,2.4,Texas,3.4,USA
+1.0,Lamb,2.4,Texas,3.4,USA
+4.0,Lamoille,6.9,Vermont,3.4,USA
+1.0,LaMoure,1.7,North Dakota,3.4,USA
+1.0,Lampasas,2.4,Texas,3.4,USA
+13.0,Lancaster,4.6,Pennsylvania,3.4,USA
+5.0,Lancaster,1.6,Nebraska,3.4,USA
+1.0,Lancaster,2.1,Virginia,3.4,USA
+1.0,Lancaster,3.0,South Carolina,3.4,USA
+15.0,Lane,4.6,Oregon,3.4,USA
+1.0,Langlade,4.1,Wisconsin,3.4,USA
+5.0,Lapeer,3.7,Michigan,3.4,USA
+1.0,Lapeer County,3.7,Michigan,3.4,USA
+4.0,LaPorte,2.1,Indiana,3.4,USA
+4.0,Laramie,1.8,Wyoming,3.4,USA
+7.0,Larimer,3.2,Colorado,3.4,USA
+1.0,Lassen,12.4,California,3.4,USA
+4.0,Latah,2.0,Idaho,3.4,USA
+1.0,Latimer,1.7,Oklahoma,3.4,USA
+1.0,Lauderdale,2.1,Alabama,3.4,USA
+1.0,Lauderdale,1.7,Mississippi,3.4,USA
+1.0,Laurel,1.6,Kentucky,3.4,USA
+1.0,Laurens,3.0,South Carolina,3.4,USA
+1.0,Laurens County,2.0,Georgia,3.4,USA
+6.0,Lawrence,2.7,Missouri,3.4,USA
+2.0,Lawrence,2.1,Indiana,3.4,USA
+2.0,Lawrence,3.4,Ohio,3.4,USA
+3.0,Lawrence,4.6,Pennsylvania,3.4,USA
+3.0,Lawrence,1.4,South Dakota,3.4,USA
+1.0,Lawrence,1.6,Arkansas,3.4,USA
+2.0,Lawrence,1.7,Tennessee,3.4,USA
+1.0,Lawrence,4.2,Illinois,3.4,USA
+1.0,Lawrence,1.6,Kentucky,3.4,USA
+1.0,Lawrence,2.1,Alabama,3.4,USA
+1.0,Lawrence County,1.6,Arkansas,3.4,USA
+1.0,Le Flore,1.7,Oklahoma,3.4,USA
+1.0,Leavenworth,1.6,Kansas,3.4,USA
+4.0,Lebanon,4.6,Pennsylvania,3.4,USA
+10.0,Lee,3.9,Florida,3.4,USA
+1.0,Lee,4.2,Illinois,3.4,USA
+4.0,Lee,2.4,Iowa,3.4,USA
+1.0,Lee,1.7,Mississippi,3.4,USA
+1.0,Lee,2.1,Virginia,3.4,USA
+3.0,LEE,2.1,Alabama,3.4,USA
+1.0,Lee,1.6,Arkansas,3.4,USA
+7.0,Leelanau,3.7,Michigan,3.4,USA
+5.0,Lehigh,4.6,Pennsylvania,3.4,USA
+1.0,Lemhi,2.0,Idaho,3.4,USA
+1.0,Lenawee,3.7,Michigan,3.4,USA
+1.0,Lenoir,2.3,North Carolina,3.4,USA
+3.0,Leon,3.9,Florida,3.4,USA
+3.0,Lewis,4.4,Washington,3.4,USA
+1.0,Lewis,1.6,Kentucky,3.4,USA
+3.0,Lewis,9.4,New York,3.4,USA
+1.0,Lewis,1.7,Tennessee,3.4,USA
+1.0,Lewis,1.6,West Virginia,3.4,USA
+1.0,"Lewis ,Clark",1.9,Montana,3.4,USA
+5.0,Lexington,3.0,South Carolina,3.4,USA
+2.0,Liberty,1.9,Montana,3.4,USA
+6.0,Licking,3.4,Ohio,3.4,USA
+1.0,Limestone,2.1,Alabama,3.4,USA
+3.0,Lincoln,3.2,Nevada,3.4,USA
+1.0,Lincoln,4.4,Washington,3.4,USA
+1.0,Lincoln,5.2,Maine,3.4,USA
+1.0,Lincoln,1.7,Mississippi,3.4,USA
+2.0,Lincoln,2.5,New Mexico,3.4,USA
+1.0,Lincoln,2.0,Idaho,3.4,USA
+4.0,Lincoln,2.7,Missouri,3.4,USA
+2.0,Lincoln,2.9,Minnesota,3.4,USA
+1.0,Lincoln,1.9,Montana,3.4,USA
+1.0,Lincoln,3.2,Colorado,3.4,USA
+6.0,Lincoln,4.6,Oregon,3.4,USA
+1.0,Lincoln,1.6,West Virginia,3.4,USA
+1.0,Lincoln,1.6,Kentucky,3.4,USA
+3.0,Lincoln,2.3,North Carolina,3.4,USA
+3.0,Lincoln,1.6,Nebraska,3.4,USA
+3.0,Lincoln,4.1,Wisconsin,3.4,USA
+1.0,Lincoln,1.8,Louisiana,3.4,USA
+1.0,Lincoln,1.8,Wyoming,3.4,USA
+8.0,Linn,2.4,Iowa,3.4,USA
+4.0,Linn,4.6,Oregon,3.4,USA
+2.0,Linn,2.7,Missouri,3.4,USA
+12.0,Litchfield,16.4,Connecticut,3.4,USA
+1.0,Little River,1.6,Arkansas,3.4,USA
+7.0,Livingston,9.4,New York,3.4,USA
+7.0,Livingston,3.7,Michigan,3.4,USA
+1.0,Livingston,2.7,Missouri,3.4,USA
+2.0,Livingston,4.2,Illinois,3.4,USA
+1.0,Livingston,1.8,Louisiana,3.4,USA
+1.0,Logan,1.6,Arkansas,3.4,USA
+1.0,Logan,4.2,Illinois,3.4,USA
+1.0,Logan,3.4,Ohio,3.4,USA
+1.0,Logan,1.6,Kentucky,3.4,USA
+1.0,Logan,1.6,West Virginia,3.4,USA
+3.0,Lorain,3.4,Ohio,3.4,USA
+1.0,Los Alamos,2.5,New Mexico,3.4,USA
+120.0,Los Angeles,12.4,California,3.4,USA
+10.0,Loudoun,2.1,Virginia,3.4,USA
+1.0,Louisa,2.4,Iowa,3.4,USA
+3.0,Louisa,2.1,Virginia,3.4,USA
+3.0,Lowndes,2.0,Georgia,3.4,USA
+1.0,Lowndes,1.7,Mississippi,3.4,USA
+1.0,Lowndes,2.1,Alabama,3.4,USA
+2.0,Lubbock,2.4,Texas,3.4,USA
+2.0,Lucas,2.4,Iowa,3.4,USA
+4.0,Lucas,3.4,Ohio,3.4,USA
+1.0,Luce,3.7,Michigan,3.4,USA
+1.0,Lumpkin,2.0,Georgia,3.4,USA
+1.0,Luna,2.5,New Mexico,3.4,USA
+1.0,Lunenburg,2.1,Virginia,3.4,USA
+4.0,Luzerne,4.6,Pennsylvania,3.4,USA
+4.0,Lycoming,4.6,Pennsylvania,3.4,USA
+1.0,Lynchburg,2.1,Virginia,3.4,USA
+6.0,Lyon,3.2,Nevada,3.4,USA
+1.0,Lyon,1.6,Kansas,3.4,USA
+2.0,Lyon County,2.4,Iowa,3.4,USA
+1.0,Mackinac,3.7,Michigan,3.4,USA
+9.0,Macomb,3.7,Michigan,3.4,USA
+1.0,Macon,2.3,North Carolina,3.4,USA
+1.0,Macon,2.1,Alabama,3.4,USA
+1.0,Macon,1.7,Tennessee,3.4,USA
+1.0,Macon,4.2,Illinois,3.4,USA
+1.0,Macon,2.7,Missouri,3.4,USA
+6.0,Madera,12.4,California,3.4,USA
+3.0,Madison,4.2,Illinois,3.4,USA
+1.0,Madison,1.6,Kentucky,3.4,USA
+4.0,Madison,2.1,Alabama,3.4,USA
+2.0,Madison,1.7,Mississippi,3.4,USA
+9.0,Madison,9.4,New York,3.4,USA
+3.0,Madison,1.6,Nebraska,3.4,USA
+3.0,Madison,3.4,Ohio,3.4,USA
+3.0,Madison,2.3,North Carolina,3.4,USA
+1.0,Madison,2.4,Iowa,3.4,USA
+1.0,Madison,2.1,Virginia,3.4,USA
+1.0,Madison,2.7,Missouri,3.4,USA
+1.0,Madison,1.6,Arkansas,3.4,USA
+3.0,Madison,1.9,Montana,3.4,USA
+2.0,Madison,2.1,Indiana,3.4,USA
+1.0,Madison,2.0,Idaho,3.4,USA
+1.0,Madison,3.9,Florida,3.4,USA
+2.0,Madison,1.7,Tennessee,3.4,USA
+1.0,Madison Parish,1.8,Louisiana,3.4,USA
+2.0,Mahaska,2.4,Iowa,3.4,USA
+1.0,Mahnomen,2.9,Minnesota,3.4,USA
+3.0,Mahoning,3.4,Ohio,3.4,USA
+1.0,Malheur,4.6,Oregon,3.4,USA
+1.0,Malheur County,4.6,Oregon,3.4,USA
+2.0,Manassas,2.1,Virginia,3.4,USA
+2.0,Manatee,3.9,Florida,3.4,USA
+1.0,Manistee,3.7,Michigan,3.4,USA
+3.0,Manitowoc,4.1,Wisconsin,3.4,USA
+7.0,Marathon,4.1,Wisconsin,3.4,USA
+2.0,Marengo,2.1,Alabama,3.4,USA
+29.0,Maricopa,5.7,Arizona,3.4,USA
+13.0,Marin,12.4,California,3.4,USA
+2.0,Marinette,4.1,Wisconsin,3.4,USA
+10.0,Marion,2.1,Indiana,3.4,USA
+1.0,Marion,4.2,Illinois,3.4,USA
+2.0,Marion,3.9,Florida,3.4,USA
+2.0,Marion,1.6,Kansas,3.4,USA
+1.0,Marion,1.6,West Virginia,3.4,USA
+2.0,Marion,1.6,Kentucky,3.4,USA
+2.0,Marion,2.1,Alabama,3.4,USA
+1.0,Marion,2.7,Missouri,3.4,USA
+11.0,Marion,4.6,Oregon,3.4,USA
+1.0,Marion,3.0,South Carolina,3.4,USA
+1.0,Marion,3.4,Ohio,3.4,USA
+1.0,Marion,1.7,Mississippi,3.4,USA
+1.0,Marion,1.6,Arkansas,3.4,USA
+1.0,Marion County,3.9,Florida,3.4,USA
+3.0,Mariposa,12.4,California,3.4,USA
+1.0,Marlboro,3.0,South Carolina,3.4,USA
+3.0,Marquette,3.7,Michigan,3.4,USA
+4.0,Marshall,2.1,Alabama,3.4,USA
+4.0,Marshall,2.4,Iowa,3.4,USA
+2.0,Marshall,1.6,Kansas,3.4,USA
+1.0,Marshall,1.4,South Dakota,3.4,USA
+1.0,Marshall,1.7,Mississippi,3.4,USA
+1.0,Marshall,1.7,Tennessee,3.4,USA
+1.0,Marshall,1.6,West Virginia,3.4,USA
+1.0,Marshall,2.1,Indiana,3.4,USA
+1.0,Marshall,2.9,Minnesota,3.4,USA
+1.0,Martin,2.3,North Carolina,3.4,USA
+1.0,Martin,3.9,Florida,3.4,USA
+2.0,Mason,3.7,Michigan,3.4,USA
+2.0,Mason,1.6,West Virginia,3.4,USA
+1.0,Mason,4.4,Washington,3.4,USA
+4.0,Matanuska-Susitna,2.6,Alaska,3.4,USA
+1.0,Matanuska-Susitna Borough,2.6,Alaska,3.4,USA
+1.0,Mathews,2.1,Virginia,3.4,USA
+7.0,Maui,16.8,Hawaii,3.4,USA
+2.0,Maury,1.7,Tennessee,3.4,USA
+1.0,Mayes,1.7,Oklahoma,3.4,USA
+2.0,McClain,1.7,Oklahoma,3.4,USA
+1.0,McCone,1.9,Montana,3.4,USA
+2.0,McCurtain,1.7,Oklahoma,3.4,USA
+2.0,McDonald,2.7,Missouri,3.4,USA
+1.0,McDonough,4.2,Illinois,3.4,USA
+1.0,McDowell,2.3,North Carolina,3.4,USA
+3.0,McHenry,1.7,North Dakota,3.4,USA
+7.0,McHenry,4.2,Illinois,3.4,USA
+1.0,McIntosh,1.7,Oklahoma,3.4,USA
+1.0,McIntosh County,1.7,North Dakota,3.4,USA
+2.0,McKean,4.6,Pennsylvania,3.4,USA
+3.0,McKinley,2.5,New Mexico,3.4,USA
+4.0,McLean,4.2,Illinois,3.4,USA
+2.0,McLean,1.7,North Dakota,3.4,USA
+2.0,McLennan,2.4,Texas,3.4,USA
+3.0,Mcleod,2.9,Minnesota,3.4,USA
+1.0,McMinn,1.7,Tennessee,3.4,USA
+1.0,Meade,1.6,Kentucky,3.4,USA
+2.0,Meade,1.4,South Dakota,3.4,USA
+10.0,Mecklenburg,2.3,North Carolina,3.4,USA
+1.0,Mecklenburg,2.1,Virginia,3.4,USA
+1.0,Mecosta,3.7,Michigan,3.4,USA
+5.0,Medina,3.4,Ohio,3.4,USA
+1.0,Mellette,1.4,South Dakota,3.4,USA
+1.0,Menard,4.2,Illinois,3.4,USA
+8.0,Mendocino,12.4,California,3.4,USA
+3.0,Menominee,3.7,Michigan,3.4,USA
+7.0,Merced,12.4,California,3.4,USA
+2.0,Mercer,1.6,West Virginia,3.4,USA
+2.0,Mercer,4.6,Pennsylvania,3.4,USA
+8.0,Mercer,5.4,New Jersey,3.4,USA
+2.0,Mercer,1.6,Kentucky,3.4,USA
+1.0,Mercer,2.7,Missouri,3.4,USA
+2.0,Mercer,1.7,North Dakota,3.4,USA
+3.0,Mercer County,5.4,New Jersey,3.4,USA
+13.0,Merrimack,8.0,New Hampshire,3.4,USA
+2.0,Mesa,3.2,Colorado,3.4,USA
+5.0,Miami,3.4,Ohio,3.4,USA
+1.0,Miami,1.6,Kansas,3.4,USA
+29.0,Miami-Dade,3.9,Florida,3.4,USA
+45.0,Middlesex,17.6,Massachusetts,3.4,USA
+15.0,Middlesex,16.4,Connecticut,3.4,USA
+7.0,Middlesex,5.4,New Jersey,3.4,USA
+1.0,Middlesex,2.1,Virginia,3.4,USA
+1.0,Middlesex County,5.4,New Jersey,3.4,USA
+2.0,Midland,3.7,Michigan,3.4,USA
+1.0,Midland,2.4,Texas,3.4,USA
+4.0,Mifflin,4.6,Pennsylvania,3.4,USA
+2.0,Mille Lacs,2.9,Minnesota,3.4,USA
+2.0,Miller,2.7,Missouri,3.4,USA
+1.0,Miller,1.6,Arkansas,3.4,USA
+1.0,Mills,2.4,Iowa,3.4,USA
+20.0,Milwaukee,4.1,Wisconsin,3.4,USA
+2.0,Mineral,1.6,West Virginia,3.4,USA
+1.0,Mingo,1.6,West Virginia,3.4,USA
+1.0,Minidoka,2.0,Idaho,3.4,USA
+3.0,Minnehaha,1.4,South Dakota,3.4,USA
+1.0,Mississippi,2.7,Missouri,3.4,USA
+1.0,Mississippi,1.6,Arkansas,3.4,USA
+1.0,Mississippi County,1.6,Arkansas,3.4,USA
+6.0,Missoula,1.9,Montana,3.4,USA
+2.0,Mitchell,2.3,North Carolina,3.4,USA
+3.0,Mitchell,2.4,Iowa,3.4,USA
+6.0,MOBILE,2.1,Alabama,3.4,USA
+1.0,Moffat,3.2,Colorado,3.4,USA
+7.0,Monmouth,5.4,New Jersey,3.4,USA
+1.0,Mono,12.4,California,3.4,USA
+2.0,Monongalia,1.6,West Virginia,3.4,USA
+3.0,Monroe,2.1,Indiana,3.4,USA
+20.0,Monroe,9.4,New York,3.4,USA
+1.0,Monroe,1.7,Mississippi,3.4,USA
+2.0,Monroe,3.7,Michigan,3.4,USA
+1.0,Monroe,2.0,Georgia,3.4,USA
+2.0,Monroe,2.1,Alabama,3.4,USA
+1.0,Monroe,4.6,Pennsylvania,3.4,USA
+1.0,Monroe,2.4,Iowa,3.4,USA
+1.0,Monroe,1.6,Kentucky,3.4,USA
+2.0,Monroe,2.7,Missouri,3.4,USA
+1.0,Monroe,1.6,West Virginia,3.4,USA
+1.0,Monroe,2.1,Virginia,3.4,USA
+2.0,Monroe,4.1,Wisconsin,3.4,USA
+4.0,Montcalm,3.7,Michigan,3.4,USA
+12.0,Monterey,12.4,California,3.4,USA
+3.0,Montezuma,3.2,Colorado,3.4,USA
+14.0,Montgomery,4.6,Pennsylvania,3.4,USA
+21.0,Montgomery,5.5,Maryland,3.4,USA
+3.0,Montgomery,2.1,Virginia,3.4,USA
+7.0,Montgomery,9.4,New York,3.4,USA
+6.0,Montgomery,3.4,Ohio,3.4,USA
+3.0,Montgomery,1.6,Kansas,3.4,USA
+1.0,Montgomery,2.1,Indiana,3.4,USA
+4.0,Montgomery,2.1,Alabama,3.4,USA
+1.0,Montgomery,2.4,Texas,3.4,USA
+2.0,Montgomery,4.2,Illinois,3.4,USA
+1.0,Montgomery,1.6,Arkansas,3.4,USA
+2.0,Montgomery,1.7,Tennessee,3.4,USA
+1.0,Montgomery,1.6,Kentucky,3.4,USA
+2.0,Montgomery,2.3,North Carolina,3.4,USA
+1.0,Montgomery,2.7,Missouri,3.4,USA
+1.0,Montgomery,2.4,Iowa,3.4,USA
+1.0,Montgomery County,4.6,Pennsylvania,3.4,USA
+1.0,Montmorency,3.7,Michigan,3.4,USA
+1.0,Montrose,3.2,Colorado,3.4,USA
+2.0,Moore,2.3,North Carolina,3.4,USA
+1.0,Moore County,2.3,North Carolina,3.4,USA
+1.0,Moore County,2.4,Texas,3.4,USA
+1.0,Mora,2.5,New Mexico,3.4,USA
+1.0,Morgan,1.6,West Virginia,3.4,USA
+1.0,Morgan,3.2,Colorado,3.4,USA
+2.0,Morgan,2.1,Alabama,3.4,USA
+2.0,Morgan,4.2,Illinois,3.4,USA
+2.0,Morgan,3.4,Ohio,3.4,USA
+1.0,Morgan,1.7,Tennessee,3.4,USA
+2.0,Morgan,2.1,Indiana,3.4,USA
+1.0,Morgan,2.7,Missouri,3.4,USA
+1.0,Morrill,1.6,Nebraska,3.4,USA
+9.0,Morris,5.4,New Jersey,3.4,USA
+2.0,Morris County,5.4,New Jersey,3.4,USA
+1.0,Morrison,2.9,Minnesota,3.4,USA
+1.0,Morrow,3.4,Ohio,3.4,USA
+2.0,Morton,1.7,North Dakota,3.4,USA
+2.0,Mountrail,1.7,North Dakota,3.4,USA
+2.0,Mower,2.9,Minnesota,3.4,USA
+2.0,Muhlenberg,1.6,Kentucky,3.4,USA
+26.0,Multnomah,4.6,Oregon,3.4,USA
+1.0,Murray,2.9,Minnesota,3.4,USA
+3.0,Muscatine,2.4,Iowa,3.4,USA
+2.0,Muscogee,2.0,Georgia,3.4,USA
+6.0,Muskegon,3.7,Michigan,3.4,USA
+4.0,Muskingum,3.4,Ohio,3.4,USA
+1.0,Muskogee,1.7,Oklahoma,3.4,USA
+1.0,Nacogdoches,2.4,Texas,3.4,USA
+2.0,Nantucket,17.6,Massachusetts,3.4,USA
+6.0,Napa,12.4,California,3.4,USA
+1.0,Nash,2.3,North Carolina,3.4,USA
+2.0,Nassau,3.9,Florida,3.4,USA
+14.0,Nassau,9.4,New York,3.4,USA
+1.0,Natchitoches,1.8,Louisiana,3.4,USA
+2.0,Natrona,1.8,Wyoming,3.4,USA
+3.0,Navajo,5.7,Arizona,3.4,USA
+1.0,Navarro,2.4,Texas,3.4,USA
+1.0,Nelson,1.6,Kentucky,3.4,USA
+1.0,Nelson,2.1,Virginia,3.4,USA
+2.0,Nemaha,1.6,Nebraska,3.4,USA
+1.0,Neosho,1.6,Kansas,3.4,USA
+2.0,Neshoba,1.7,Mississippi,3.4,USA
+8.0,Nevada,12.4,California,3.4,USA
+1.0,Nevada,1.6,Arkansas,3.4,USA
+6.0,New Castle,7.3,Delaware,3.4,USA
+2.0,New Hanover,2.3,North Carolina,3.4,USA
+25.0,New Haven,16.4,Connecticut,3.4,USA
+17.0,New London,16.4,Connecticut,3.4,USA
+52.0,New York,9.4,New York,3.4,USA
+3.0,Newaygo,3.7,Michigan,3.4,USA
+1.0,Newberry,3.0,South Carolina,3.4,USA
+5.0,NEWPORT,9.2,Rhode Island,3.4,USA
+5.0,Newport,9.2,Rhode Island,3.4,USA
+3.0,Newport News,2.1,Virginia,3.4,USA
+1.0,Newton,2.7,Missouri,3.4,USA
+1.0,Nez Perce,2.0,Idaho,3.4,USA
+6.0,Niagara,9.4,New York,3.4,USA
+1.0,Nicholas,1.6,West Virginia,3.4,USA
+1.0,Nicollet,2.9,Minnesota,3.4,USA
+1.0,Niobrara,1.8,Wyoming,3.4,USA
+1.0,Noble,2.1,Indiana,3.4,USA
+1.0,Noble,1.7,Oklahoma,3.4,USA
+1.0,Nodaway,2.7,Missouri,3.4,USA
+15.0,Norfolk,17.6,Massachusetts,3.4,USA
+1.0,Norfolk,2.1,Virginia,3.4,USA
+5.0,Northampton,4.6,Pennsylvania,3.4,USA
+1.0,Northampton,2.1,Virginia,3.4,USA
+1.0,Northumberland,2.1,Virginia,3.4,USA
+2.0,Northumberland,4.6,Pennsylvania,3.4,USA
+1.0,Norton,1.6,Kansas,3.4,USA
+1.0,Norton,2.1,Virginia,3.4,USA
+1.0,Nottoway,2.1,Virginia,3.4,USA
+1.0,Nowata,1.7,Oklahoma,3.4,USA
+1.0,Noxubee,1.7,Mississippi,3.4,USA
+4.0,Nueces,2.4,Texas,3.4,USA
+1.0,Nye,3.2,Nevada,3.4,USA
+3.0,O'Brien,2.4,Iowa,3.4,USA
+19.0,Oakland,3.7,Michigan,3.4,USA
+10.0,Ocean,5.4,New Jersey,3.4,USA
+2.0,Oceana,3.7,Michigan,3.4,USA
+3.0,Oconee,3.0,South Carolina,3.4,USA
+1.0,Oconee,2.0,Georgia,3.4,USA
+1.0,Oconee County,2.0,Georgia,3.4,USA
+1.0,Ogemaw,3.7,Michigan,3.4,USA
+1.0,Ogemaw County,3.7,Michigan,3.4,USA
+4.0,Ogle,4.2,Illinois,3.4,USA
+1.0,Oglethorpe,2.0,Georgia,3.4,USA
+1.0,Ohio,1.6,Kentucky,3.4,USA
+1.0,Ohio,2.1,Indiana,3.4,USA
+2.0,Ohio,1.6,West Virginia,3.4,USA
+4.0,Okaloosa,3.9,Florida,3.4,USA
+3.0,Okanogan,4.4,Washington,3.4,USA
+8.0,Oklahoma,1.7,Oklahoma,3.4,USA
+3.0,Oklahoma County,1.7,Oklahoma,3.4,USA
+2.0,Oktibbeha,1.7,Mississippi,3.4,USA
+1.0,Oldham,1.6,Kentucky,3.4,USA
+5.0,Olmsted,2.9,Minnesota,3.4,USA
+14.0,Oneida,9.4,New York,3.4,USA
+1.0,Oneida,4.1,Wisconsin,3.4,USA
+10.0,Onondaga,9.4,New York,3.4,USA
+2.0,Onslow,2.3,North Carolina,3.4,USA
+7.0,Ontario,9.4,New York,3.4,USA
+1.0,Ontonagon,3.7,Michigan,3.4,USA
+4.0,Orange,6.9,Vermont,3.4,USA
+23.0,Orange,12.4,California,3.4,USA
+5.0,Orange,2.3,North Carolina,3.4,USA
+16.0,Orange,9.4,New York,3.4,USA
+8.0,Orange,3.9,Florida,3.4,USA
+2.0,Orange,2.1,Virginia,3.4,USA
+3.0,Orange,2.1,Indiana,3.4,USA
+1.0,Orange County,2.3,North Carolina,3.4,USA
+2.0,Orange County,9.4,New York,3.4,USA
+3.0,Orangeburg,3.0,South Carolina,3.4,USA
+1.0,Oregon,2.7,Missouri,3.4,USA
+7.0,Orleans,6.9,Vermont,3.4,USA
+5.0,Orleans,1.8,Louisiana,3.4,USA
+2.0,Orleans,9.4,New York,3.4,USA
+1.0,Osage,2.7,Missouri,3.4,USA
+1.0,Osage County,1.6,Kansas,3.4,USA
+1.0,Osborne,1.6,Kansas,3.4,USA
+4.0,Osceola,3.9,Florida,3.4,USA
+3.0,Osceola,3.7,Michigan,3.4,USA
+1.0,Osceola,2.4,Iowa,3.4,USA
+1.0,Oscoda,3.7,Michigan,3.4,USA
+7.0,Oswego,9.4,New York,3.4,USA
+4.0,Otero,2.5,New Mexico,3.4,USA
+1.0,Otoe,1.6,Nebraska,3.4,USA
+6.0,Otsego,9.4,New York,3.4,USA
+2.0,Otsego,3.7,Michigan,3.4,USA
+7.0,Ottawa,3.7,Michigan,3.4,USA
+1.0,Ouachita,1.6,Arkansas,3.4,USA
+2.0,Ouachita,1.8,Louisiana,3.4,USA
+1.0,Ouray,3.2,Colorado,3.4,USA
+6.0,Outagamie,4.1,Wisconsin,3.4,USA
+1.0,Overton,1.7,Tennessee,3.4,USA
+1.0,Owen,1.6,Kentucky,3.4,USA
+2.0,Owen,2.1,Indiana,3.4,USA
+2.0,Owsley,1.6,Kentucky,3.4,USA
+1.0,Owyhee,2.0,Idaho,3.4,USA
+6.0,Oxford,5.2,Maine,3.4,USA
+1.0,Ozark,2.7,Missouri,3.4,USA
+3.0,Ozaukee,4.1,Wisconsin,3.4,USA
+3.0,Pacific,4.4,Washington,3.4,USA
+2.0,Page,2.4,Iowa,3.4,USA
+1.0,Page,2.1,Virginia,3.4,USA
+9.0,Palm Beach,3.9,Florida,3.4,USA
+1.0,Palo Alto,2.4,Iowa,3.4,USA
+1.0,Pamlico,2.3,North Carolina,3.4,USA
+1.0,Panola,1.7,Mississippi,3.4,USA
+2.0,Park,1.9,Montana,3.4,USA
+1.0,Park,1.8,Wyoming,3.4,USA
+2.0,Parke County,2.1,Indiana,3.4,USA
+5.0,Pasco,3.9,Florida,3.4,USA
+2.0,Pasquotank,2.3,North Carolina,3.4,USA
+6.0,Passaic,5.4,New Jersey,3.4,USA
+2.0,Patrick,2.1,Virginia,3.4,USA
+2.0,Paulding,2.0,Georgia,3.4,USA
+4.0,Payne,1.7,Oklahoma,3.4,USA
+1.0,Peach,2.0,Georgia,3.4,USA
+1.0,Pearl River,1.7,Mississippi,3.4,USA
+3.0,Pembina,1.7,North Dakota,3.4,USA
+1.0,Pemiscot,2.7,Missouri,3.4,USA
+1.0,Pend Oreille,4.4,Washington,3.4,USA
+1.0,Pender,2.3,North Carolina,3.4,USA
+1.0,Pendleton,1.6,Kentucky,3.4,USA
+1.0,Pendleton,1.6,West Virginia,3.4,USA
+2.0,Pennington,1.4,South Dakota,3.4,USA
+1.0,Pennington,2.9,Minnesota,3.4,USA
+2.0,Pennington County,1.4,South Dakota,3.4,USA
+5.0,Penobscot,5.2,Maine,3.4,USA
+2.0,Peoria,4.2,Illinois,3.4,USA
+2.0,Pepin County,4.1,Wisconsin,3.4,USA
+1.0,Perquimans,2.3,North Carolina,3.4,USA
+5.0,Perry,3.4,Ohio,3.4,USA
+2.0,Perry,2.1,Indiana,3.4,USA
+2.0,Perry,4.2,Illinois,3.4,USA
+1.0,Perry,1.6,Kentucky,3.4,USA
+2.0,Perry,2.1,Alabama,3.4,USA
+1.0,Perry,1.6,Arkansas,3.4,USA
+1.0,Perry,1.7,Tennessee,3.4,USA
+1.0,Person,2.3,North Carolina,3.4,USA
+1.0,Pettis,2.7,Missouri,3.4,USA
+4.0,Phelps,2.7,Missouri,3.4,USA
+1.0,Phelps,1.6,Nebraska,3.4,USA
+45.0,Philadelphia,4.6,Pennsylvania,3.4,USA
+2.0,Phillips County,1.6,Arkansas,3.4,USA
+2.0,Piatt,4.2,Illinois,3.4,USA
+1.0,Pickaway,3.4,Ohio,3.4,USA
+3.0,Pickens,3.0,South Carolina,3.4,USA
+2.0,Pickens,2.1,Alabama,3.4,USA
+1.0,Pickens,2.0,Georgia,3.4,USA
+14.0,Pierce,4.4,Washington,3.4,USA
+2.0,Pierce,4.1,Wisconsin,3.4,USA
+1.0,Pierce,1.6,Nebraska,3.4,USA
+1.0,Pierce,1.7,North Dakota,3.4,USA
+2.0,Pike,2.7,Missouri,3.4,USA
+2.0,Pike,1.7,Mississippi,3.4,USA
+1.0,Pike,2.0,Georgia,3.4,USA
+1.0,Pike,1.6,Kentucky,3.4,USA
+1.0,Pike,2.1,Indiana,3.4,USA
+1.0,Pike,2.1,Alabama,3.4,USA
+16.0,Pima,5.7,Arizona,3.4,USA
+4.0,Pima County,5.7,Arizona,3.4,USA
+2.0,Pinal,5.7,Arizona,3.4,USA
+1.0,Pine,2.9,Minnesota,3.4,USA
+9.0,Pinellas,3.9,Florida,3.4,USA
+1.0,Piscataquis,5.2,Maine,3.4,USA
+1.0,Pitkin,3.2,Colorado,3.4,USA
+5.0,Pitt,2.3,North Carolina,3.4,USA
+2.0,Pittsylvania,2.1,Virginia,3.4,USA
+22.0,Placer,12.4,California,3.4,USA
+1.0,Placer,2.1,Indiana,3.4,USA
+1.0,Platte,1.6,Nebraska,3.4,USA
+3.0,Platte,2.7,Missouri,3.4,USA
+1.0,Platte,1.8,Wyoming,3.4,USA
+1.0,Platte County,2.7,Missouri,3.4,USA
+1.0,Pleasants,1.6,West Virginia,3.4,USA
+1.0,Pleasants County,1.6,West Virginia,3.4,USA
+1.0,Please Select County,2.1,Virginia,3.4,USA
+1.0,Plumas,12.4,California,3.4,USA
+11.0,Plymouth,17.6,Massachusetts,3.4,USA
+3.0,Plymouth,2.4,Iowa,3.4,USA
+3.0,Pocahontas,2.4,Iowa,3.4,USA
+2.0,Pocahontas,1.6,West Virginia,3.4,USA
+1.0,Poinsett,1.6,Arkansas,3.4,USA
+7.0,Polk,4.1,Wisconsin,3.4,USA
+12.0,Polk,2.4,Iowa,3.4,USA
+4.0,Polk,2.3,North Carolina,3.4,USA
+3.0,Polk,2.9,Minnesota,3.4,USA
+1.0,Polk,2.7,Missouri,3.4,USA
+4.0,Polk,3.9,Florida,3.4,USA
+2.0,Polk,4.6,Oregon,3.4,USA
+1.0,Polk,2.4,Texas,3.4,USA
+2.0,Polk,1.6,Arkansas,3.4,USA
+1.0,Polk,1.6,Nebraska,3.4,USA
+1.0,Pontotoc,1.7,Oklahoma,3.4,USA
+1.0,Pope,4.2,Illinois,3.4,USA
+1.0,Pope,2.9,Minnesota,3.4,USA
+2.0,Pope,1.6,Arkansas,3.4,USA
+3.0,Portage,3.4,Ohio,3.4,USA
+2.0,Portage,4.1,Wisconsin,3.4,USA
+3.0,Porter,2.1,Indiana,3.4,USA
+1.0,Portsmouth,2.1,Virginia,3.4,USA
+3.0,Posey,2.1,Indiana,3.4,USA
+2.0,Pottawatomie,1.7,Oklahoma,3.4,USA
+1.0,Pottawatomie,1.6,Kansas,3.4,USA
+3.0,Pottawattamie,2.4,Iowa,3.4,USA
+1.0,Potter,2.4,Texas,3.4,USA
+1.0,Powell,1.6,Kentucky,3.4,USA
+1.0,Powell,1.9,Montana,3.4,USA
+1.0,Poweshiek,2.4,Iowa,3.4,USA
+1.0,Powhatan,2.1,Virginia,3.4,USA
+1.0,Prentiss,1.7,Mississippi,3.4,USA
+2.0,Presque Isle,3.7,Michigan,3.4,USA
+3.0,Preston,1.6,West Virginia,3.4,USA
+3.0,Price,4.1,Wisconsin,3.4,USA
+1.0,Prince Edward,2.1,Virginia,3.4,USA
+1.0,Prince George,2.1,Virginia,3.4,USA
+16.0,Prince George's,5.5,Maryland,3.4,USA
+1.0,Prince George's County,5.5,Maryland,3.4,USA
+7.0,Prince William,2.1,Virginia,3.4,USA
+23.0,Providence,9.2,Rhode Island,3.4,USA
+3.0,Pueblo,3.2,Colorado,3.4,USA
+8.0,Pulaski,1.6,Arkansas,3.4,USA
+2.0,Pulaski,2.7,Missouri,3.4,USA
+3.0,Pulaski,2.1,Virginia,3.4,USA
+2.0,Pulaski,2.0,Georgia,3.4,USA
+2.0,Pulaski,1.6,Kentucky,3.4,USA
+3.0,Putnam,3.9,Florida,3.4,USA
+2.0,Putnam,9.4,New York,3.4,USA
+1.0,Putnam,1.7,Tennessee,3.4,USA
+1.0,Putnam,3.4,Ohio,3.4,USA
+2.0,Putnam,2.1,Indiana,3.4,USA
+1.0,Putnam,2.7,Missouri,3.4,USA
+1.0,Putnam,1.6,West Virginia,3.4,USA
+1.0,Putnam,2.0,Georgia,3.4,USA
+2.0,Queen Anne's,5.5,Maryland,3.4,USA
+19.0,Queens,9.4,New York,3.4,USA
+2.0,Rabun,2.0,Georgia,3.4,USA
+6.0,Racine,4.1,Wisconsin,3.4,USA
+8.0,Ramsey,2.9,Minnesota,3.4,USA
+2.0,Ramsey,1.7,North Dakota,3.4,USA
+2.0,Randolph,2.3,North Carolina,3.4,USA
+2.0,Randolph,2.7,Missouri,3.4,USA
+2.0,Randolph,1.6,West Virginia,3.4,USA
+3.0,Randolph,4.2,Illinois,3.4,USA
+1.0,Randolph,1.6,Arkansas,3.4,USA
+2.0,Ransom,1.7,North Dakota,3.4,USA
+1.0,Rapides,1.8,Louisiana,3.4,USA
+4.0,Ravalli,1.9,Montana,3.4,USA
+1.0,Ray,2.7,Missouri,3.4,USA
+1.0,Red Willow,1.6,Nebraska,3.4,USA
+1.0,Reno,1.6,Kansas,3.4,USA
+10.0,Rensselaer,9.4,New York,3.4,USA
+1.0,Republic,1.6,Kansas,3.4,USA
+1.0,Rhea,1.7,Tennessee,3.4,USA
+5.0,Rice,2.9,Minnesota,3.4,USA
+22.0,Richland,3.0,South Carolina,3.4,USA
+6.0,Richland,3.4,Ohio,3.4,USA
+2.0,Richland,4.2,Illinois,3.4,USA
+1.0,Richland,1.9,Montana,3.4,USA
+2.0,Richland,4.1,Wisconsin,3.4,USA
+1.0,Richland,1.7,North Dakota,3.4,USA
+2.0,Richmond,2.0,Georgia,3.4,USA
+1.0,Richmond,2.3,North Carolina,3.4,USA
+3.0,Richmond,9.4,New York,3.4,USA
+9.0,Richmond City,2.1,Virginia,3.4,USA
+2.0,Riley,1.6,Kansas,3.4,USA
+3.0,Rio Arriba,2.5,New Mexico,3.4,USA
+2.0,Rio Grande,3.2,Colorado,3.4,USA
+2.0,Ripley,2.1,Indiana,3.4,USA
+2.0,Ripley,2.7,Missouri,3.4,USA
+1.0,Ritchie,1.6,West Virginia,3.4,USA
+18.0,Riverside,12.4,California,3.4,USA
+3.0,Riverside County,12.4,California,3.4,USA
+3.0,Roane,1.6,West Virginia,3.4,USA
+4.0,Roanoke,2.1,Virginia,3.4,USA
+1.0,Robertson,1.6,Kentucky,3.4,USA
+3.0,Robeson,2.3,North Carolina,3.4,USA
+6.0,Rock,4.1,Wisconsin,3.4,USA
+1.0,Rock,1.6,Nebraska,3.4,USA
+2.0,Rock Island,4.2,Illinois,3.4,USA
+3.0,Rockbridge,2.1,Virginia,3.4,USA
+3.0,Rockcastle,1.6,Kentucky,3.4,USA
+12.0,Rockingham,8.0,New Hampshire,3.4,USA
+2.0,Rockingham,2.1,Virginia,3.4,USA
+3.0,Rockingham,2.3,North Carolina,3.4,USA
+6.0,Rockland,9.4,New York,3.4,USA
+1.0,Rogers,1.7,Oklahoma,3.4,USA
+1.0,Rolette,1.7,North Dakota,3.4,USA
+1.0,Roosevelt,2.5,New Mexico,3.4,USA
+1.0,Roosevelt,1.9,Montana,3.4,USA
+1.0,Roscommon,3.7,Michigan,3.4,USA
+1.0,Ross,3.4,Ohio,3.4,USA
+2.0,Routt,3.2,Colorado,3.4,USA
+2.0,Rowan,2.3,North Carolina,3.4,USA
+1.0,Rowan,1.6,Kentucky,3.4,USA
+2.0,Rush,2.1,Indiana,3.4,USA
+1.0,Rush,1.6,Kansas,3.4,USA
+2.0,Rusk,4.1,Wisconsin,3.4,USA
+2.0,Russell,1.6,Kentucky,3.4,USA
+1.0,Russell,2.1,Virginia,3.4,USA
+1.0,Russell,2.1,Alabama,3.4,USA
+3.0,Rutherford,2.3,North Carolina,3.4,USA
+2.0,Rutherford,1.7,Tennessee,3.4,USA
+1.0,Rutherford County,1.7,Tennessee,3.4,USA
+7.0,Rutland,6.9,Vermont,3.4,USA
+1.0,Sabine Parish,1.8,Louisiana,3.4,USA
+19.0,Sacramento,12.4,California,3.4,USA
+2.0,Sagadahoc,5.2,Maine,3.4,USA
+5.0,Saginaw,3.7,Michigan,3.4,USA
+2.0,Salem,5.4,New Jersey,3.4,USA
+1.0,Saline,1.6,Arkansas,3.4,USA
+1.0,Saline,1.6,Nebraska,3.4,USA
+1.0,Saline,2.7,Missouri,3.4,USA
+1.0,Saline,1.6,Kansas,3.4,USA
+1.0,Saline County,1.6,Nebraska,3.4,USA
+7.0,Salt Lake,2.0,Utah,3.4,USA
+2.0,Saluda,3.0,South Carolina,3.4,USA
+1.0,San Benito,12.4,California,3.4,USA
+22.0,San Bernardino,12.4,California,3.4,USA
+48.0,San Diego,12.4,California,3.4,USA
+26.0,San Francisco,12.4,California,3.4,USA
+16.0,San Joaquin,12.4,California,3.4,USA
+16.0,SAN JOAQUIN,12.4,California,3.4,USA
+2.0,San Juan,2.5,New Mexico,3.4,USA
+3.0,San Juan,4.4,Washington,3.4,USA
+21.0,San Luis Obispo,12.4,California,3.4,USA
+21.0,San Mateo,12.4,California,3.4,USA
+4.0,San Mateo County,12.4,California,3.4,USA
+3.0,San Miguel,2.5,New Mexico,3.4,USA
+3.0,San Miguel,3.2,Colorado,3.4,USA
+1.0,Sanborn,1.4,South Dakota,3.4,USA
+3.0,Sanders,1.9,Montana,3.4,USA
+7.0,Sandoval,2.5,New Mexico,3.4,USA
+1.0,Sandusky,3.4,Ohio,3.4,USA
+2.0,Sangamon,4.2,Illinois,3.4,USA
+2.0,Sanilac,3.7,Michigan,3.4,USA
+2.0,Sanpete County,2.0,Utah,3.4,USA
+11.0,SANTA BARBARA,12.4,California,3.4,USA
+33.0,Santa Clara,12.4,California,3.4,USA
+7.0,Santa Cruz,12.4,California,3.4,USA
+3.0,Santa Cruz,5.7,Arizona,3.4,USA
+5.0,Santa Fe,2.5,New Mexico,3.4,USA
+1.0,Santa Rosa,3.9,Florida,3.4,USA
+3.0,Sarasota,3.9,Florida,3.4,USA
+8.0,Saratoga,9.4,New York,3.4,USA
+5.0,Sauk,4.1,Wisconsin,3.4,USA
+1.0,Saunders,1.6,Nebraska,3.4,USA
+1.0,Sawyer,4.1,Wisconsin,3.4,USA
+4.0,Schenectady,9.4,New York,3.4,USA
+2.0,Schoharie,9.4,New York,3.4,USA
+1.0,Schoolcraft,3.7,Michigan,3.4,USA
+1.0,Schuyler,4.2,Illinois,3.4,USA
+3.0,Schuyler,9.4,New York,3.4,USA
+1.0,Schuyler,2.7,Missouri,3.4,USA
+1.0,Schuyler County,9.4,New York,3.4,USA
+3.0,Schuylkill,4.6,Pennsylvania,3.4,USA
+2.0,Scotland,2.7,Missouri,3.4,USA
+4.0,Scott,2.4,Iowa,3.4,USA
+1.0,Scott,2.7,Missouri,3.4,USA
+1.0,Scott,2.1,Virginia,3.4,USA
+1.0,Scott,2.1,Indiana,3.4,USA
+1.0,Scott,1.6,Kentucky,3.4,USA
+1.0,Scott,2.9,Minnesota,3.4,USA
+1.0,Scott,1.6,Arkansas,3.4,USA
+2.0,Scotts Bluff,1.6,Nebraska,3.4,USA
+2.0,Sebastian,1.6,Arkansas,3.4,USA
+1.0,Sebastian County,1.6,Arkansas,3.4,USA
+5.0,Sedgwick,1.6,Kansas,3.4,USA
+3.0,Seminole,3.9,Florida,3.4,USA
+1.0,Seneca,3.4,Ohio,3.4,USA
+5.0,Seneca,9.4,New York,3.4,USA
+2.0,Sevier,1.7,Tennessee,3.4,USA
+1.0,Sevier,2.0,Utah,3.4,USA
+1.0,Seward,1.6,Kansas,3.4,USA
+1.0,Seward,1.6,Nebraska,3.4,USA
+1.0,Shannon,2.7,Missouri,3.4,USA
+1.0,Shannon,1.4,South Dakota,3.4,USA
+1.0,Sharp,1.6,Arkansas,3.4,USA
+12.0,Shasta,12.4,California,3.4,USA
+1.0,Shawano,4.1,Wisconsin,3.4,USA
+4.0,Shawnee,1.6,Kansas,3.4,USA
+3.0,Sheboygan,4.1,Wisconsin,3.4,USA
+9.0,Shelby,1.7,Tennessee,3.4,USA
+8.0,Shelby,2.1,Alabama,3.4,USA
+1.0,Shelby,2.7,Missouri,3.4,USA
+1.0,Shelby,2.1,Indiana,3.4,USA
+2.0,Shelby,1.6,Kentucky,3.4,USA
+1.0,Shelby,2.4,Iowa,3.4,USA
+1.0,Shelby,3.4,Ohio,3.4,USA
+2.0,Shenandoah,2.1,Virginia,3.4,USA
+1.0,Sherburne,2.9,Minnesota,3.4,USA
+2.0,Sheridan,1.6,Nebraska,3.4,USA
+1.0,Sheridan,1.7,North Dakota,3.4,USA
+1.0,Sheridan,1.8,Wyoming,3.4,USA
+1.0,Sherman,1.6,Kansas,3.4,USA
+1.0,Sherman,1.6,Nebraska,3.4,USA
+5.0,Shiawassee,3.7,Michigan,3.4,USA
+2.0,Sibley,2.9,Minnesota,3.4,USA
+1.0,Sierra,2.5,New Mexico,3.4,USA
+1.0,Silver Bow,1.9,Montana,3.4,USA
+1.0,Simpson,1.6,Kentucky,3.4,USA
+2.0,Sioux,2.4,Iowa,3.4,USA
+1.0,Sioux,1.7,North Dakota,3.4,USA
+6.0,Siskiyou,12.4,California,3.4,USA
+1.0,Sitka,2.6,Alaska,3.4,USA
+6.0,Skagit,4.4,Washington,3.4,USA
+2.0,Smith,2.4,Texas,3.4,USA
+1.0,Smith,1.6,Kansas,3.4,USA
+1.0,Smith,1.7,Tennessee,3.4,USA
+2.0,Smyth,2.1,Virginia,3.4,USA
+9.0,Snohomish,4.4,Washington,3.4,USA
+1.0,Snyder,4.6,Pennsylvania,3.4,USA
+2.0,Socorro,2.5,New Mexico,3.4,USA
+6.0,Solano,12.4,California,3.4,USA
+5.0,Somerset,5.4,New Jersey,3.4,USA
+4.0,Somerset,5.2,Maine,3.4,USA
+1.0,Somerset,5.5,Maryland,3.4,USA
+1.0,Somerset,4.6,Pennsylvania,3.4,USA
+1.0,Somerset County,5.5,Maryland,3.4,USA
+19.0,Sonoma,12.4,California,3.4,USA
+1.0,Southampton,2.1,Virginia,3.4,USA
+1.0,Southeast Fairbanks,2.6,Alaska,3.4,USA
+3.0,Spartanburg,3.0,South Carolina,3.4,USA
+2.0,Spencer,1.6,Kentucky,3.4,USA
+9.0,Spokane,4.4,Washington,3.4,USA
+4.0,Spotsylvania,2.1,Virginia,3.4,USA
+1.0,St. Anislaus,12.4,California,3.4,USA
+1.0,St. Bernard,1.8,Louisiana,3.4,USA
+6.0,St. Charles,2.7,Missouri,3.4,USA
+2.0,St. Charles,1.8,Louisiana,3.4,USA
+1.0,St. Clair,4.2,Illinois,3.4,USA
+2.0,St. Clair,3.7,Michigan,3.4,USA
+1.0,St. Clair,2.1,Alabama,3.4,USA
+5.0,St. Croix,4.1,Wisconsin,3.4,USA
+1.0,St. Francis,1.6,Arkansas,3.4,USA
+2.0,St. Francois,2.7,Missouri,3.4,USA
+3.0,St. Johns,3.9,Florida,3.4,USA
+4.0,St. Joseph,2.1,Indiana,3.4,USA
+2.0,St. Joseph,3.7,Michigan,3.4,USA
+1.0,St. Landry,1.8,Louisiana,3.4,USA
+13.0,St. Lawrence,9.4,New York,3.4,USA
+16.0,St. Louis,2.7,Missouri,3.4,USA
+6.0,St. Louis,2.9,Minnesota,3.4,USA
+6.0,St. Louis City,2.7,Missouri,3.4,USA
+3.0,St. Lucie,3.9,Florida,3.4,USA
+2.0,St. Martin,1.8,Louisiana,3.4,USA
+1.0,St. Mary,1.8,Louisiana,3.4,USA
+3.0,St. Mary's,5.5,Maryland,3.4,USA
+3.0,St. Tammany,1.8,Louisiana,3.4,USA
+1.0,St. Thomas,1.3,Virgin Islands,3.4,USA
+1.0,Stafford,1.6,Kansas,3.4,USA
+10.0,Stanislaus,12.4,California,3.4,USA
+1.0,Stanly,2.3,North Carolina,3.4,USA
+9.0,Stark,3.4,Ohio,3.4,USA
+1.0,Starke,2.1,Indiana,3.4,USA
+2.0,Ste. Genevieve,2.7,Missouri,3.4,USA
+6.0,Stearns,2.9,Minnesota,3.4,USA
+2.0,Steele,2.9,Minnesota,3.4,USA
+2.0,Stephenson,4.2,Illinois,3.4,USA
+6.0,Steuben,9.4,New York,3.4,USA
+2.0,Steuben,2.1,Indiana,3.4,USA
+4.0,Stevens,4.4,Washington,3.4,USA
+1.0,Stevens,2.9,Minnesota,3.4,USA
+1.0,Stillwater,1.9,Montana,3.4,USA
+1.0,Stoddard,2.7,Missouri,3.4,USA
+4.0,Stokes,2.3,North Carolina,3.4,USA
+2.0,Stone,2.7,Missouri,3.4,USA
+2.0,Stone,1.6,Arkansas,3.4,USA
+1.0,Stone County,1.7,Mississippi,3.4,USA
+1.0,Storey,3.2,Nevada,3.4,USA
+4.0,Story,2.4,Iowa,3.4,USA
+7.0,Strafford,8.0,New Hampshire,3.4,USA
+3.0,Stutsman,1.7,North Dakota,3.4,USA
+1.0,Sublette,1.8,Wyoming,3.4,USA
+24.0,Suffolk,17.6,Massachusetts,3.4,USA
+22.0,Suffolk,9.4,New York,3.4,USA
+1.0,Suffolk,2.1,Virginia,3.4,USA
+3.0,Sullivan,1.7,Tennessee,3.4,USA
+8.0,Sullivan,9.4,New York,3.4,USA
+4.0,Sullivan,8.0,New Hampshire,3.4,USA
+1.0,Summers,1.6,West Virginia,3.4,USA
+8.0,Summit,3.4,Ohio,3.4,USA
+1.0,Summit,3.2,Colorado,3.4,USA
+3.0,Summit,2.0,Utah,3.4,USA
+1.0,Sumner,1.7,Tennessee,3.4,USA
+3.0,Sumter,3.0,South Carolina,3.4,USA
+1.0,Sumter,2.0,Georgia,3.4,USA
+1.0,Sumter,2.1,Alabama,3.4,USA
+3.0,Sumter,3.9,Florida,3.4,USA
+2.0,Sunflower,1.7,Mississippi,3.4,USA
+3.0,Surry,2.3,North Carolina,3.4,USA
+1.0,Surry,2.1,Virginia,3.4,USA
+14.0,Sussex,7.3,Delaware,3.4,USA
+3.0,Sussex,5.4,New Jersey,3.4,USA
+3.0,Sutter,12.4,California,3.4,USA
+3.0,Suwannee,3.9,Florida,3.4,USA
+3.0,Swain,2.3,North Carolina,3.4,USA
+1.0,Sweet Grass,1.9,Montana,3.4,USA
+1.0,Switzerland,2.1,Indiana,3.4,USA
+2.0,Talbot,5.5,Maryland,3.4,USA
+1.0,Talladega,2.1,Alabama,3.4,USA
+1.0,Talladega County,2.1,Alabama,3.4,USA
+3.0,Tallapoosa,2.1,Alabama,3.4,USA
+4.0,Tama,2.4,Iowa,3.4,USA
+3.0,Taney,2.7,Missouri,3.4,USA
+1.0,Tangipahoa,1.8,Louisiana,3.4,USA
+1.0,Taos,2.5,New Mexico,3.4,USA
+11.0,Tarrant,2.4,Texas,3.4,USA
+1.0,Tate,1.7,Mississippi,3.4,USA
+2.0,Taylor,4.1,Wisconsin,3.4,USA
+1.0,Taylor,2.4,Texas,3.4,USA
+1.0,Taylor,3.9,Florida,3.4,USA
+1.0,Taylor,1.6,West Virginia,3.4,USA
+1.0,Taylor,1.6,Kentucky,3.4,USA
+3.0,Tazewell,2.1,Virginia,3.4,USA
+3.0,Tazewell,4.2,Illinois,3.4,USA
+2.0,Tehama,12.4,California,3.4,USA
+2.0,Teller,3.2,Colorado,3.4,USA
+2.0,Terrebonne,1.8,Louisiana,3.4,USA
+1.0,Teton,1.8,Wyoming,3.4,USA
+1.0,Teton,1.9,Montana,3.4,USA
+1.0,Teton,2.0,Idaho,3.4,USA
+1.0,Texas,2.7,Missouri,3.4,USA
+2.0,Thayer,1.6,Nebraska,3.4,USA
+1.0,Thomas,2.0,Georgia,3.4,USA
+6.0,Thurston,4.4,Washington,3.4,USA
+3.0,Tift,2.0,Georgia,3.4,USA
+3.0,Tillamook,4.6,Oregon,3.4,USA
+2.0,Tioga,4.6,Pennsylvania,3.4,USA
+3.0,Tioga,9.4,New York,3.4,USA
+1.0,Tippah,1.7,Mississippi,3.4,USA
+3.0,Tippecanoe,2.1,Indiana,3.4,USA
+1.0,Tipton,1.7,Tennessee,3.4,USA
+1.0,Tipton,2.1,Indiana,3.4,USA
+1.0,Todd,1.6,Kentucky,3.4,USA
+8.0,Tolland,16.4,Connecticut,3.4,USA
+1.0,Tom Green,2.4,Texas,3.4,USA
+6.0,Tompkins,9.4,New York,3.4,USA
+1.0,Tooele,2.0,Utah,3.4,USA
+1.0,Toole,1.9,Montana,3.4,USA
+1.0,Torrance,2.5,New Mexico,3.4,USA
+1.0,Towner,1.7,North Dakota,3.4,USA
+1.0,Towns,2.0,Georgia,3.4,USA
+1.0,Transylvania,2.3,North Carolina,3.4,USA
+13.0,Travis,2.4,Texas,3.4,USA
+1.0,Treasure,1.9,Montana,3.4,USA
+2.0,Trempealeau,4.1,Wisconsin,3.4,USA
+1.0,Trigg,1.6,Kentucky,3.4,USA
+2.0,Trinity,12.4,California,3.4,USA
+1.0,Trumbull,3.4,Ohio,3.4,USA
+2.0,Tucker,1.6,West Virginia,3.4,USA
+10.0,Tulare,12.4,California,3.4,USA
+7.0,Tulsa,1.7,Oklahoma,3.4,USA
+2.0,Tulsa County,1.7,Oklahoma,3.4,USA
+3.0,Tuolumne,12.4,California,3.4,USA
+1.0,Turner,1.4,South Dakota,3.4,USA
+3.0,Tuscaloosa,2.1,Alabama,3.4,USA
+1.0,Tuscarawas,3.4,Ohio,3.4,USA
+1.0,Tuscola,3.7,Michigan,3.4,USA
+3.0,Twin Falls,2.0,Idaho,3.4,USA
+3.0,Tyler,1.6,West Virginia,3.4,USA
+1.0,Tyrrell County,2.3,North Carolina,3.4,USA
+1.0,Uintah,2.0,Utah,3.4,USA
+12.0,Ulster,9.4,New York,3.4,USA
+4.0,Umatilla,4.6,Oregon,3.4,USA
+1.0,Umatilla County,4.6,Oregon,3.4,USA
+1.0,Unicoi,1.7,Tennessee,3.4,USA
+2.0,Union,4.2,Illinois,3.4,USA
+1.0,Union,2.5,New Mexico,3.4,USA
+1.0,Union,1.6,Kentucky,3.4,USA
+3.0,Union,1.7,Mississippi,3.4,USA
+1.0,Union,2.4,Iowa,3.4,USA
+1.0,Union,4.6,Oregon,3.4,USA
+2.0,Union,4.6,Pennsylvania,3.4,USA
+5.0,Union,5.4,New Jersey,3.4,USA
+1.0,Union,2.0,Georgia,3.4,USA
+1.0,Union,3.9,Florida,3.4,USA
+1.0,Union,3.4,Ohio,3.4,USA
+2.0,Union,2.3,North Carolina,3.4,USA
+1.0,Union,3.0,South Carolina,3.4,USA
+1.0,Union,1.8,Louisiana,3.4,USA
+1.0,Upshur,1.6,West Virginia,3.4,USA
+2.0,Upson,2.0,Georgia,3.4,USA
+5.0,Utah,2.0,Utah,3.4,USA
+2.0,Valencia,2.5,New Mexico,3.4,USA
+2.0,Valley,2.0,Idaho,3.4,USA
+1.0,Valley,1.6,Nebraska,3.4,USA
+2.0,Valley,1.9,Montana,3.4,USA
+5.0,Van Buren,3.7,Michigan,3.4,USA
+3.0,Van Buren,2.4,Iowa,3.4,USA
+1.0,Van Wert,3.4,Ohio,3.4,USA
+1.0,Van Wert County,3.4,Ohio,3.4,USA
+2.0,Vance,2.3,North Carolina,3.4,USA
+2.0,Vanderburgh,2.1,Indiana,3.4,USA
+2.0,Venango,4.6,Pennsylvania,3.4,USA
+11.0,Ventura,12.4,California,3.4,USA
+1.0,Vermilion,4.2,Illinois,3.4,USA
+1.0,Vermilion,1.8,Louisiana,3.4,USA
+4.0,Vernon,4.1,Wisconsin,3.4,USA
+1.0,Vernon,2.7,Missouri,3.4,USA
+1.0,Vernon,1.8,Louisiana,3.4,USA
+1.0,Victoria,2.4,Texas,3.4,USA
+2.0,Vigo,2.1,Indiana,3.4,USA
+1.0,Vilas,4.1,Wisconsin,3.4,USA
+1.0,Vilas County,4.1,Wisconsin,3.4,USA
+3.0,Virginia Beach,2.1,Virginia,3.4,USA
+7.0,Volusia,3.9,Florida,3.4,USA
+2.0,Wabash,2.1,Indiana,3.4,USA
+2.0,Wadena,2.9,Minnesota,3.4,USA
+1.0,Wagoner,1.7,Oklahoma,3.4,USA
+1.0,Wahkiakum,4.4,Washington,3.4,USA
+12.0,Wake,2.3,North Carolina,3.4,USA
+7.0,Waldo,5.2,Maine,3.4,USA
+1.0,Walker,2.0,Georgia,3.4,USA
+1.0,Walker,2.4,Texas,3.4,USA
+1.0,Walker,2.1,Alabama,3.4,USA
+1.0,Walla Walla,4.4,Washington,3.4,USA
+5.0,Wallowa,4.6,Oregon,3.4,USA
+1.0,Walthall,1.7,Mississippi,3.4,USA
+2.0,Walton,2.0,Georgia,3.4,USA
+1.0,Walton,3.9,Florida,3.4,USA
+5.0,Walworth,4.1,Wisconsin,3.4,USA
+2.0,Wapello,2.4,Iowa,3.4,USA
+4.0,Ward,1.7,North Dakota,3.4,USA
+3.0,Warren,5.4,New Jersey,3.4,USA
+3.0,Warren,1.6,Kentucky,3.4,USA
+7.0,Warren,9.4,New York,3.4,USA
+3.0,Warren,2.7,Missouri,3.4,USA
+4.0,Warren,3.4,Ohio,3.4,USA
+2.0,Warren,2.4,Iowa,3.4,USA
+1.0,Warren,4.2,Illinois,3.4,USA
+1.0,Warren,1.7,Mississippi,3.4,USA
+1.0,Warren,4.6,Pennsylvania,3.4,USA
+1.0,Warren,1.7,Tennessee,3.4,USA
+1.0,Warren,2.3,North Carolina,3.4,USA
+1.0,Warren County,2.1,Virginia,3.4,USA
+1.0,Warrick,2.1,Indiana,3.4,USA
+1.0,Wasatch,2.0,Utah,3.4,USA
+3.0,Wasco,4.6,Oregon,3.4,USA
+1.0,Washakie,1.8,Wyoming,3.4,USA
+1.0,Washburn,4.1,Wisconsin,3.4,USA
+2.0,Washington,2.1,Virginia,3.4,USA
+14.0,Washington,4.6,Oregon,3.4,USA
+4.0,Washington,1.7,Tennessee,3.4,USA
+14.0,WASHINGTON,9.2,Rhode Island,3.4,USA
+8.0,Washington,6.9,Vermont,3.4,USA
+1.0,Washington,1.7,Oklahoma,3.4,USA
+3.0,Washington,2.9,Minnesota,3.4,USA
+1.0,Washington,1.6,Nebraska,3.4,USA
+9.0,Washington,9.4,New York,3.4,USA
+1.0,Washington,2.0,Idaho,3.4,USA
+3.0,Washington,4.6,Pennsylvania,3.4,USA
+1.0,Washington,3.9,Florida,3.4,USA
+2.0,Washington,1.6,Kansas,3.4,USA
+3.0,Washington,2.0,Utah,3.4,USA
+5.0,Washington,4.1,Wisconsin,3.4,USA
+1.0,Washington,1.6,Kentucky,3.4,USA
+4.0,Washington,1.6,Arkansas,3.4,USA
+1.0,Washington,2.4,Texas,3.4,USA
+2.0,Washington,1.7,Mississippi,3.4,USA
+4.0,Washington,5.5,Maryland,3.4,USA
+5.0,Washington,5.2,Maine,3.4,USA
+1.0,Washington,4.2,Illinois,3.4,USA
+3.0,Washington,3.4,Ohio,3.4,USA
+1.0,Washington,2.3,North Carolina,3.4,USA
+1.0,Washington,2.1,Alabama,3.4,USA
+1.0,Washington,2.1,Indiana,3.4,USA
+1.0,Washington,2.7,Missouri,3.4,USA
+1.0,Washington,2.4,Iowa,3.4,USA
+12.0,Washoe,3.2,Nevada,3.4,USA
+13.0,Washtenaw,3.7,Michigan,3.4,USA
+3.0,Watauga,2.3,North Carolina,3.4,USA
+1.0,Watauga County,2.3,North Carolina,3.4,USA
+2.0,Watonwan,2.9,Minnesota,3.4,USA
+12.0,Waukesha,4.1,Wisconsin,3.4,USA
+30.0,Wayne,3.7,Michigan,3.4,USA
+2.0,Wayne,2.1,Indiana,3.4,USA
+6.0,Wayne,9.4,New York,3.4,USA
+7.0,Wayne,3.4,Ohio,3.4,USA
+1.0,Wayne,2.0,Utah,3.4,USA
+1.0,Wayne,4.2,Illinois,3.4,USA
+1.0,Wayne,4.6,Pennsylvania,3.4,USA
+2.0,Wayne,1.6,West Virginia,3.4,USA
+1.0,Wayne,1.6,Kentucky,3.4,USA
+1.0,Wayne,2.3,North Carolina,3.4,USA
+1.0,Wayne,1.6,Nebraska,3.4,USA
+1.0,Weakley,1.7,Tennessee,3.4,USA
+1.0,Webb,2.4,Texas,3.4,USA
+2.0,Webster,2.4,Iowa,3.4,USA
+1.0,Webster,1.6,Nebraska,3.4,USA
+1.0,Webster,2.7,Missouri,3.4,USA
+1.0,Webster,1.7,Mississippi,3.4,USA
+1.0,Webster,1.6,West Virginia,3.4,USA
+8.0,Weld,3.2,Colorado,3.4,USA
+1.0,Wells,2.1,Indiana,3.4,USA
+1.0,Wells,1.7,North Dakota,3.4,USA
+1.0,West Feliciana,1.8,Louisiana,3.4,USA
+32.0,Westchester,9.4,New York,3.4,USA
+10.0,Westmoreland,4.6,Pennsylvania,3.4,USA
+2.0,Weston,1.8,Wyoming,3.4,USA
+1.0,Wetzel,1.6,West Virginia,3.4,USA
+1.0,Wexford,3.7,Michigan,3.4,USA
+1.0,Wharton,2.4,Texas,3.4,USA
+3.0,Whatcom,4.4,Washington,3.4,USA
+1.0,Whatcom County,4.4,Washington,3.4,USA
+2.0,White,1.6,Arkansas,3.4,USA
+1.0,White,1.7,Tennessee,3.4,USA
+1.0,White,2.0,Georgia,3.4,USA
+1.0,White Pine,3.2,Nevada,3.4,USA
+4.0,Whiteside,4.2,Illinois,3.4,USA
+3.0,Wichita,2.4,Texas,3.4,USA
+2.0,Wichita,1.6,Kansas,3.4,USA
+2.0,Wicomico,5.5,Maryland,3.4,USA
+1.0,Wilbarger,2.4,Texas,3.4,USA
+3.0,WILCOX,2.1,Alabama,3.4,USA
+1.0,Wilkes,2.0,Georgia,3.4,USA
+1.0,Wilkes,2.3,North Carolina,3.4,USA
+9.0,Will,4.2,Illinois,3.4,USA
+4.0,Williams,1.7,North Dakota,3.4,USA
+1.0,Williamsburg,3.0,South Carolina,3.4,USA
+1.0,Williamsburg,2.1,Virginia,3.4,USA
+3.0,Williamson,4.2,Illinois,3.4,USA
+7.0,Williamson,2.4,Texas,3.4,USA
+3.0,Williamson,1.7,Tennessee,3.4,USA
+1.0,Wilson,1.7,Tennessee,3.4,USA
+2.0,Wilson,2.3,North Carolina,3.4,USA
+6.0,Windham,16.4,Connecticut,3.4,USA
+11.0,Windham,6.9,Vermont,3.4,USA
+1.0,Windham County,16.4,Connecticut,3.4,USA
+10.0,Windsor,6.9,Vermont,3.4,USA
+4.0,Winnebago,2.4,Iowa,3.4,USA
+6.0,Winnebago,4.2,Illinois,3.4,USA
+5.0,Winnebago,4.1,Wisconsin,3.4,USA
+1.0,Winnebago County,4.1,Wisconsin,3.4,USA
+2.0,Winneshiek,2.4,Iowa,3.4,USA
+1.0,Winona,2.9,Minnesota,3.4,USA
+1.0,Winston,2.1,Alabama,3.4,USA
+3.0,Wise,2.1,Virginia,3.4,USA
+1.0,Wolfe,1.6,Kentucky,3.4,USA
+4.0,Wood,4.1,Wisconsin,3.4,USA
+2.0,Wood,3.4,Ohio,3.4,USA
+1.0,Wood,1.6,West Virginia,3.4,USA
+1.0,Wood,2.4,Texas,3.4,USA
+2.0,Woodbury,2.4,Iowa,3.4,USA
+1.0,Woodbury County,2.4,Iowa,3.4,USA
+1.0,Woodford,4.2,Illinois,3.4,USA
+1.0,Woods,1.7,Oklahoma,3.4,USA
+1.0,Woodward,1.7,Oklahoma,3.4,USA
+4.0,Worcester,5.5,Maryland,3.4,USA
+47.0,Worcester,17.6,Massachusetts,3.4,USA
+2.0,Worth,2.4,Iowa,3.4,USA
+1.0,Worth,2.0,Georgia,3.4,USA
+3.0,Wright,2.7,Missouri,3.4,USA
+2.0,Wright,2.4,Iowa,3.4,USA
+3.0,Wright,2.9,Minnesota,3.4,USA
+1.0,Wyandot,3.4,Ohio,3.4,USA
+4.0,Wyandotte,1.6,Kansas,3.4,USA
+2.0,Wyoming,9.4,New York,3.4,USA
+1.0,Wyoming,1.6,West Virginia,3.4,USA
+1.0,Wyoming,4.6,Pennsylvania,3.4,USA
+1.0,Wythe,2.1,Virginia,3.4,USA
+1.0,Yadkin,2.3,North Carolina,3.4,USA
+2.0,Yakima,4.4,Washington,3.4,USA
+1.0,Yalobusha,1.7,Mississippi,3.4,USA
+3.0,Yamhill,4.6,Oregon,3.4,USA
+1.0,Yancey,2.3,North Carolina,3.4,USA
+1.0,Yankton,1.4,South Dakota,3.4,USA
+4.0,Yates,9.4,New York,3.4,USA
+9.0,Yavapai,5.7,Arizona,3.4,USA
+1.0,Yellow Medicine,2.9,Minnesota,3.4,USA
+3.0,Yellowstone,1.9,Montana,3.4,USA
+6.0,Yolo,12.4,California,3.4,USA
+7.0,York,4.6,Pennsylvania,3.4,USA
+10.0,York,5.2,Maine,3.4,USA
+4.0,York,3.0,South Carolina,3.4,USA
+1.0,York,1.6,Nebraska,3.4,USA
+1.0,York,2.1,Virginia,3.4,USA
+2.0,Yuba,12.4,California,3.4,USA
+1.0,Yuma,5.7,Arizona,3.4,USA
